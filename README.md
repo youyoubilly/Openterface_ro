@@ -1,7 +1,7 @@
-This GitHub repository hosts the website for the [Openterface Mini-KVM](https://openterface.com/), a compact, feature-rich KVM device that is open-source and powered by a vibrant community.
+Acest repository GitHub găzduiește site-ul pentru [Openterface Mini-KVM](https://openterface.com/), un dispozitiv KVM compact și plin de funcționalități, open-source și susținut de o comunitate vibrantă.
 
 ![use-case-demo-industrial-pc](/docs//images/product/use-case-demo-industrial-pc.jpg)
 
-Whether you're an IT professional needing to troubleshoot a server, a developer managing multiple tests on edge computing machines, a tech enthusiast hacking single-board computers, or simply someone looking to declutter their desk, Openterface Mini-KVM is the solution.
+Fie că ești un profesionist IT care trebuie să depaneze un server, un dezvoltator care gestionează multiple teste pe mașini de edge computing, un entuziast tech care experimentează cu computere single-board sau pur și simplu cineva care dorește să-și elibereze biroul de cabluri, Openterface Mini-KVM este soluția.
 
-Discover more about our [use cases](https://openterface.com/use-cases/).
+Descoperă mai multe despre [cazurile noastre de utilizare](https://openterface.com/use-cases/).
