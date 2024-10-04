@@ -1,11 +1,11 @@
-# How It Works
+# Cum Funcționează
 
-## Process Breakdown
+## Descrierea Procesului
 
-- **Screen Streaming**: The mini-KVM captures the screen stream from the target computer and displays it on the host computer’s app. This allows users to view and manage the target system directly from their host machine.
-- **Cursor and Mouse Control**: By moving the mouse to the app window on the host computer, users can control the cursor on the target device as if they were using a VNC. This functionality enables operating two systems simultaneously on one screen.
-- **Keyboard Input**: When the app window is active, any keystrokes made on the host computer’s keyboard are transmitted to the target device, allowing for seamless typing and command entry.
-- **HID Signal Conversion**: All keyboard and mouse inputs within the app are converted into Human Interface Device (HID) control signals, which are then sent to the target computer.
-- **Synchronization**: The app ensures that the target computer’s screen and cursor are synchronized with the host computer’s display, facilitating a unified user experience.
+- **Streaming Ecran**: Mini-KVM-ul capturează fluxul de ecran de la computerul țintă și îl afișează în aplicația de pe computerul gazdă. Astfel, utilizatorii pot vizualiza și gestiona sistemul țintă direct de pe mașina gazdă.
+- **Controlul Cursorului și Mouse-ului**: Prin mutarea mouse-ului în fereastra aplicației de pe computerul gazdă, utilizatorii pot controla cursorul de pe dispozitivul țintă, similar cu utilizarea unui VNC. Această funcționalitate permite operarea simultană a două sisteme pe un singur ecran.
+- **Introducerea de la Tastatură**: Când fereastra aplicației este activă, orice apăsare de taste pe tastatura computerului gazdă este transmisă către dispozitivul țintă, permițând o tastare și introducere de comenzi fără întreruperi.
+- **Conversia Semnalelor HID**: Toate intrările de la tastatură și mouse din aplicație sunt convertite în semnale de control Human Interface Device (HID), care sunt apoi trimise către computerul țintă.
+- **Sincronizare**: Aplicația asigură sincronizarea ecranului și cursorului computerului țintă cu afișajul computerului gazdă, facilitând o experiență unificată pentru utilizator.
 
-You may explore Openterface Open-source [Software](/app) and [Hardware](/open-hardware) for more details.
+Puteți explora software-ul [Software](/app) și hardware-ul [Hardware](/open-hardware) open-source Openterface pentru mai multe detalii.

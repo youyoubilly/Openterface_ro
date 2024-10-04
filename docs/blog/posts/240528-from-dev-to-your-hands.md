@@ -6,128 +6,128 @@ categories:
   - Updates
 ---
 
-# From Development to Your Hands: Behind the Scenes
+# De la Dezvoltare la Mâinile Tale: În Culise
 
-Hi everyone!
+Salutare tuturor!
 
-We’re back with another update on our crowdfunding journey, and we've got some exciting news to share!
+Suntem înapoi cu o nouă actualizare despre călătoria noastră de crowdfunding și avem niște vești grozave de împărtășit!
 
-### Hitting a Major Milestone
+### Atingerea unui Prag Major
 
-First things first, we’re absolutely over the moon to announce that we’ve hit an astonishing [**1100% of our original funding goal**](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm)! A massive thank you to each and every one of you. Your support has been nothing short of phenomenal!
+În primul rând, suntem extrem de încântați să anunțăm că am atins un uimitor [**1100% din obiectivul nostru inițial de finanțare**](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm)! Un mare mulțumesc fiecăruia dintre voi. Sprijinul vostru a fost absolut fenomenal!
 
-### Production Planning
+### Planificarea Producției
 
-We’ve been super busy on the production front already! This week, we visited the tech-forward city of Shenzhen and had the chance to tour one of the top tech manufacturers. These folks work with big names like Meta, ABB, and Blaupunkt, and it was incredible to see their advanced production lines and quality control machinery in action. I wish I could share more photos, but here’s one with a bit of digital mosaic for confidentiality.
+Am fost foarte ocupați pe frontul producției! Săptămâna aceasta, am vizitat orașul tehnologic Shenzhen și am avut ocazia să facem un tur al uneia dintre cele mai bune fabrici de tehnologie. Acești oameni colaborează cu nume mari precum Meta, ABB și Blaupunkt, și a fost incredibil să vedem liniile lor avansate de producție și mașinile de control al calității în acțiune. Aș vrea să pot împărtăși mai multe fotografii, dar iată una cu un pic de mozaic digital pentru confidențialitate.
 
 ![txa-team-visit-sz-factory-1](https://www.crowdsupply.com/img/3007/e8391f0f-7d97-4236-9199-35c1157a3007/txa-team-visit-sz-factory-1_jpg_gallery-lg.jpg)
 
-(We were discussing QC with the production line manager.)
+(Discutam despre controlul calității cu managerul liniei de producție.)
 
-We’re feeling very positive about this partnership and their enthusiasm to support a tech startup like ours. We’re committed to ensuring the manufacturing phase is handled with the utmost dedication and quality so we can get our product into your hands soon! Here’s a snapshot of our core team members at the factory entrance:
-  
+Suntem foarte optimiști în privința acestui parteneriat și a entuziasmului lor de a sprijini un startup tehnologic ca al nostru. Ne angajăm să ne asigurăm că faza de producție este gestionată cu cea mai mare dedicare și calitate, astfel încât să putem aduce produsul nostru în mâinile voastre cât mai curând! Iată o fotografie a membrilor echipei noastre la intrarea în fabrică:
+
 ![txa-team-visit-sz-factory-2](https://www.crowdsupply.com/img/0842/ab0ded56-7b84-4961-a19e-f30510d30842/txa-team-visit-sz-factory-2_jpg_gallery-lg.jpg)
 
-(From left to right: Shawn, Billy, Kevin, Vileer.)
+(De la stânga la dreapta: Shawn, Billy, Kevin, Vileer.)
 
-### Upgrading Toolkit Accessories
+### Îmbunătățirea Accesoriilor Trusei
 
-We’re always looking for ways to improve, and our add-on **VGA-to-HDMI cable** has now been upgraded to 1 meter long with enhanced quality, as you can see from our previous [Week 2 update](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/our-vga-to-hdmi-cable-is-now-available-to-european-backers-and-its-a-full-meter-long).
+Întotdeauna căutăm modalități de a îmbunătăți, iar cablul nostru **VGA-to-HDMI** a fost acum actualizat la 1 metru lungime cu o calitate îmbunătățită, așa cum puteți vedea din actualizarea noastră anterioară [Week 2 update](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/our-vga-to-hdmi-cable-is-now-available-to-european-backers-and-its-a-full-meter-long).
 
-Next up, we’re also looking into our **1.5 meter long Type-C cable** for connecting to the host computer. Type-C is becoming increasingly common across new computers, laptops, and even servers. After testing many manufacturers, we found one that could produce this stylish orange Type-C cable with a lovely silicone feel that meets our quality standards.
+Următorul pe listă este cablul nostru **Type-C de 1,5 metri** pentru conectarea la computerul gazdă. Type-C devine din ce în ce mai comun pe noile computere, laptopuri și chiar servere. După ce am testat mulți producători, am găsit unul care poate produce acest cablu Type-C portocaliu elegant, cu o senzație plăcută de silicon, care îndeplinește standardele noastre de calitate.
 
-Currently, **an extra Type-C-to-USB-A adapter is required** if our Mini-KVM works with a host computer that only has USB-A ports.
+În prezent, **este necesar un adaptor suplimentar Type-C-to-USB-A** dacă Mini-KVM-ul nostru funcționează cu un computer gazdă care are doar porturi USB-A.
 
 ![typec-cable-need-adapter| link](https://www.crowdsupply.com/img/36a3/64ccc024-68b8-4d04-9ea9-ae21223136a3/typec-cable-need-adapter_jpg_gallery-lg.jpg)
 
-We know it’s a bit of a hassle, so we’re working closely with our manufacturer to improve it by **integrating an attached Type-C-to-USB-A adapter**. Here’s a mock-up of what it might look like.
+Știm că este un pic incomod, așa că lucrăm îndeaproape cu producătorul nostru pentru a-l îmbunătăți prin **integrarea unui adaptor Type-C-to-USB-A atașat**. Iată un mock-up despre cum ar putea arăta.
 
 ![upgrade-for-typ-c-cable-with-adapter](https://www.crowdsupply.com/img/6863/e9fba3f2-004f-465b-afde-29bacc236863/upgrade-for-typ-c-cable-with-adapter_png_md-xl.jpg)
 
-This stylish orange cable, with a good silicone feel and 1.5 metres long, features Type-C connectors on both ends and includes an adapter to convert one end from Type-C to USB-A. It doesn’t exist on the market and requires our custom OEM production. We’re aiming to include this solution in our final toolkit package for backers, but I'm still crunching the numbers and giving my calculator a workout! To make this happen, **we need more support to reduce the overall cost of production** for our mini-KVM toolkit. Given the current crowdfunding numbers and production costs, making this custom Type-C cable is becoming more feasible, as it is approaching the break-even point. I’ll keep everyone updated in the Openterface community on any progress!
+Acest cablu portocaliu elegant, cu o senzație plăcută de silicon și lung de 1,5 metri, are conectori Type-C la ambele capete și include un adaptor pentru a converti un capăt de la Type-C la USB-A. Nu există pe piață și necesită producția noastră OEM personalizată. Ne propunem să includem această soluție în pachetul final al trusei pentru susținători, dar încă fac calcule și îmi pun calculatorul la treabă! Pentru a face acest lucru posibil, **avem nevoie de mai mult sprijin pentru a reduce costul total de producție** al trusei noastre mini-KVM. Având în vedere numerele actuale de crowdfunding și costurile de producție, realizarea acestui cablu Type-C personalizat devine din ce în ce mai fezabilă, deoarece se apropie de punctul de rentabilitate. Voi ține pe toată lumea la curent în comunitatea Openterface cu orice progres!
 
-For your part, if you find our project promising and believe the Mini-KVM can make your tech life easier, please consider backing us and spreading the word to your friends. Let's ensure we can enhance the product even further while keeping it wallet-friendly for everyone in this crowdfunding campaign! Thanks a bunch!
+Din partea voastră, dacă găsiți proiectul nostru promițător și credeți că Mini-KVM-ul poate face viața voastră tehnologică mai ușoară, vă rugăm să ne susțineți și să răspândiți vestea prietenilor voștri. Să ne asigurăm că putem îmbunătăți produsul și mai mult, menținându-l prietenos cu portofelul pentru toată lumea în această campanie de crowdfunding! Mulțumim mult!
 
-### Open Source Updates and Global Teamwork!
+### Actualizări Open Source și Colaborare Globală!
 
-Please bear with us during this early stage of development, as there are still bugs and changes happening in our host applications. That’s where our beta team comes in! We’ve already organized **two rounds of beta testing**. Check out our posts here to learn more:
+Vă rugăm să aveți răbdare în această etapă incipientă de dezvoltare, deoarece încă există bug-uri și schimbări în aplicațiile noastre gazdă. Aici intervine echipa noastră beta! Am organizat deja **două runde de testare beta**. Verificați postările noastre aici pentru a afla mai multe:
 
-- [Update on Applications for Beta Team Round 1](https://www.reddit.com/r/Openterface_miniKVM/comments/1bszggn/update_for_our_beta_test_applicants_round_1/) on Apr 1, 2024
-- [Shipment to Beta Team Round 1](https://www.reddit.com/r/Openterface_miniKVM/comments/1cayi8v/meet_your_new_tech_allies_soon_beta_team/) on Apr 23, 2024
-- [Application for Joining Beta Team Round 2](https://www.reddit.com/r/Openterface_miniKVM/comments/1cpcowl/make_your_mark_join_our_round_2_beta_testing_crew/) on May 11, 2024
-- [Update on Applications for Beta Team Round 2](https://www.reddit.com/r/Openterface_miniKVM/comments/1cxr3zp/update_for_our_beta_test_applicants_round_2/) on May 22, 2024
+- [Update on Applications for Beta Team Round 1](https://www.reddit.com/r/Openterface_miniKVM/comments/1bszggn/update_for_our_beta_test_applicants_round_1/) pe 1 aprilie 2024
+- [Shipment to Beta Team Round 1](https://www.reddit.com/r/Openterface_miniKVM/comments/1cayi8v/meet_your_new_tech_allies_soon_beta_team/) pe 23 aprilie 2024
+- [Application for Joining Beta Team Round 2](https://www.reddit.com/r/Openterface_miniKVM/comments/1cpcowl/make_your_mark_join_our_round_2_beta_testing_crew/) pe 11 mai 2024
+- [Update on Applications for Beta Team Round 2](https://www.reddit.com/r/Openterface_miniKVM/comments/1cxr3zp/update_for_our_beta_test_applicants_round_2/) pe 22 mai 2024
 
-As you can see from the above posts, we received an overwhelming number of fantastic applications in Rounds 1 and 2, and it was a real challenge to narrow down the candidates from such a brilliant pool. We had to make some tough decisions due to the limited spots available at this exclusive phase!
+După cum puteți vedea din postările de mai sus, am primit un număr copleșitor de aplicații fantastice în Runda 1 și Runda 2, și a fost o adevărată provocare să restrângem candidații dintr-un grup atât de strălucit. A trebuit să luăm decizii dificile din cauza locurilor limitate disponibile în această fază exclusivă!
 
-Our beta team is an exceptional, truly global collaboration, with members from the US 🇺🇸, UK 🇬🇧, Japan 🇯🇵, Germany 🇩🇪, Czech Republic 🇨🇿, Norway 🇳🇴, Belgium 🇧🇪, France 🇫🇷, Austria 🇦🇹, Australia 🇦🇺, Poland 🇵🇱, Netherlands 🇳🇱, China 🇨🇳, and more joining soon. These testers bring development experience, real-world use cases for the Openterface Mini-KVM, and a passion for supporting open-source projects like ours. Our beta team is already using this handy gadget in their daily tasks, raising issues, and suggesting features for us to improve further.
+Echipa noastră beta este o colaborare excepțională, cu adevărat globală, cu membri din SUA 🇺🇸, Marea Britanie 🇬🇧, Japonia 🇯🇵, Germania 🇩🇪, Republica Cehă 🇨🇿, Norvegia 🇳🇴, Belgia 🇧🇪, Franța 🇫🇷, Austria 🇦🇹, Australia 🇦🇺, Polonia 🇵🇱, Olanda 🇳🇱, China 🇨🇳 și alții care se vor alătura în curând. Acești testeri aduc experiență de dezvoltare, cazuri de utilizare reală pentru Openterface Mini-KVM și o pasiune pentru susținerea proiectelor open-source ca al nostru. Echipa noastră beta folosește deja acest gadget util în sarcinile lor zilnice, ridicând probleme și sugerând funcții pentru a ne ajuta să îmbunătățim și mai mult.
 
-Although most of you don’t have this early version of mini-KVM, you can still review our code on GitHub and join the conversation with our beta and dev teams in [our community](/community/)! Let us know what you find so we can make this device awesome together!
+Deși majoritatea dintre voi nu aveți această versiune timpurie a mini-KVM-ului, puteți totuși să revizuiți codul nostru pe GitHub și să vă alăturați conversației cu echipele noastre beta și de dezvoltare în [comunitatea noastră](/community/)! Spuneți-ne ce descoperiți, astfel încât să putem face acest dispozitiv grozav împreună!
 
-Here are updates on our open-source Github repo:
+Iată actualizările despre repo-ul nostru open-source de pe Github:
 
 #### [**Openterface_MacOS**](https://github.com/TechxArtisanStudio/Openterface_MacOS)
 
-Our Openterface MacOS host app is already officially live on the **Apple App Store**. Just search for 'Openterface' or 'mini-KVM' to find our app page. Even better, we’ve uploaded the full code to our GitHub repo: Openterface_MacOS for the Mini-KVM. You can check out this [basic operation demo](/basic-testing/) on **MacOS**.
+Aplicația noastră gazdă Openterface MacOS este deja oficială pe **Apple App Store**. Căutați 'Openterface' sau 'mini-KVM' pentru a găsi pagina aplicației noastre. Și mai bine, am încărcat codul complet pe repo-ul nostru GitHub: Openterface_MacOS pentru Mini-KVM. Puteți verifica acest [demo de operare de bază](/basic-testing/) pe **MacOS**.
 
 ![openterface-macos-app-store](https://www.crowdsupply.com/img/1c9c/f855deb7-a88e-415b-a826-f360e6d41c9c/openterface-macos-app-store_png_md-xl.jpg)
 
 #### [**Openterface_QT**](https://github.com/TechxArtisanStudio/Openterface_QT)
 
-QT is a versatile framework that we love, so we built our mini-KVM based on it. For the **Windows version**, check out our early demo video [here](/basic-testing/). You can see from the demo that it works great with low latency and a stable connection! You can find and download the early beta app from the github repo there.
+QT este un cadru versatil pe care îl iubim, așa că am construit mini-KVM-ul nostru pe baza lui. Pentru **versiunea Windows**, verificați videoclipul nostru demo timpuriu [aici](/basic-testing/). Puteți vedea din demo că funcționează excelent cu latență scăzută și o conexiune stabilă! Puteți găsi și descărca aplicația beta timpurie din repo-ul github de acolo.
 
 ![openterface-win-app-demo-1](https://www.crowdsupply.com/img/fff1/6900b965-207d-4d91-8816-9ab73489fff1/openterface-win-app-demo-1_jpg_gallery-lg.jpg)
   
 ![openterface-win-app-demo-2](https://www.crowdsupply.com/img/373b/48737a7e-7793-49c1-9efc-a284d1ae373b/openterface-win-app-demo-2_jpg_gallery-lg.jpg)
 
-As for Linux-based systems, packaging for different architectures like ARM32, ARM64, ARMv7, and ARMv8, especially for the **Raspberry Pi**, is quite a challenge (with hours and hours of waiting for packaging), but we’re working on it. Expect a Linux demo soon, hopefully within a week.
+În ceea ce privește sistemele bazate pe Linux, ambalarea pentru diferite arhitecturi precum ARM32, ARM64, ARMv7 și ARMv8, în special pentru **Raspberry Pi**, este destul de provocatoare (cu ore și ore de așteptare pentru ambalare), dar lucrăm la asta. Așteptați un demo Linux în curând, sperăm în decurs de o săptămână.
 
-Now, we have just uploaded all our fresh code for Openterface_QT on GitHub! Dive in and have a look, but brace yourselves – it’s still in the early development stages, so there are still quite a few inevitable quirks and some work for us to improve it. We wouldn’t mind a hand. If you are a developer, please join us. Happy coding!
+Acum, am încărcat tot codul nostru proaspăt pentru Openterface_QT pe GitHub! Aruncați o privire și vedeți, dar pregătiți-vă – este încă în stadiile incipiente de dezvoltare, așa că mai sunt câteva inevitabile ciudățenii și ceva muncă pentru a-l îmbunătăți. Nu ne-ar deranja o mână de ajutor. Dacă sunteți dezvoltator, alăturați-vă nouă. Programare fericită!
 
-####  **[Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android) and [Openterface_WebExtension](https://github.com/TechxArtisanStudio/Openterface_WebExtension)**
+####  **[Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android) și [Openterface_WebExtension](https://github.com/TechxArtisanStudio/Openterface_WebExtension)**
 
-We’ve completed the **proof of concept** for both Android and WebExtension. While these are lower priorities compared to macOS, Windows, and Linux, rest assured they’re in the pipeline. Based on our preliminary research, the Openterface_Android project might also support **ChromeOS**. If you have any insights, please join the discussion!
+Am finalizat **dovada conceptului** pentru Android și WebExtension. Deși acestea sunt priorități mai mici comparativ cu macOS, Windows și Linux, fiți siguri că sunt în plan. Pe baza cercetărilor noastre preliminare, proiectul Openterface_Android ar putea susține și **ChromeOS**. Dacă aveți informații, vă rugăm să vă alăturați discuției!
 
-####  **Even for iPadOS?**
+####  **Chiar și pentru iPadOS?**
 
-We’re also exploring compatibility with Apple’s mobile systems, like iPadOS. Due to Apple’s stringent controls, these platforms might not support wired connections with third-party devices. However, we’re investigating potential workarounds, especially for iPads with M series chips. Our beta mate **Seb** has already made [some interesting findings](https://discord.com/channels/1199611503469408276/1221755356896825424/1238070985794781265) and this is worth exploring further, though nothing is confirmed yet. If you have any insights or suggestions, join our community and let’s discuss!
+Explorăm și compatibilitatea cu sistemele mobile Apple, cum ar fi iPadOS. Datorită controalelor stricte ale Apple, aceste platforme ar putea să nu susțină conexiuni prin cablu cu dispozitive terțe. Cu toate acestea, investigăm soluții posibile, în special pentru iPad-urile cu cipuri din seria M. Colegul nostru beta **Seb** a făcut deja [câteva descoperiri interesante](https://discord.com/channels/1199611503469408276/1221755356896825424/1238070985794781265) și merită explorat mai departe, deși nimic nu este confirmat încă. Dacă aveți informații sau sugestii, alăturați-vă comunității noastre și să discutăm!
 
 ![seb-explore-minikvm-for-ipados](https://www.crowdsupply.com/img/cf00/534f1b87-fcf9-4588-a207-d7a305aacf00/seb-explore-minikvm-for-ipados_jpg_gallery-lg.jpg)
 
 #### [**Openterface_Mini-KVM_Hardware**](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware)
 
-We will start releasing the hardware details incrementally over the next two to three weeks. Additionally, to maintain a high standard of open source, we plan to adhere to the Open Source Hardware Association (**OSHWA**) certification requirements.
+Vom începe să lansăm detaliile hardware treptat în următoarele două-trei săptămâni. În plus, pentru a menține un standard înalt de open source, planificăm să respectăm cerințele de certificare ale Open Source Hardware Association (**OSHWA**).
 
-In the meantime, you can learn more about our hardware here: [datasheet](https://docs.google.com/document/d/1UPw5RwGTp0AjKL3wOvQZUS1hp3IPMxkCujtqy5haeP0/edit?usp=sharing) and [How It Works](/how-it-works/) for now. This page explains our USB-HDMI capture integration, featuring the **CH9329** chip for keyboard and mouse control. Technical enthusiasts may find the details on this chip particularly interesting. Additionally, our mini-KVM utilises the **CH340** chip, supporting two built-in USB hubs for both the host and target sides. Our mini-KVM is comparable to many video capture cards currently on the market.
+Între timp, puteți afla mai multe despre hardware-ul nostru aici: [fișa tehnică](https://docs.google.com/document/d/1UPw5RwGTp0AjKL3wOvQZUS1hp3IPMxkCujtqy5haeP0/edit?usp=sharing) și [Cum Funcționează](/how-it-works/) pentru moment. Această pagină explică integrarea noastră de captură USB-HDMI, cu cipul **CH9329** pentru controlul tastaturii și mouse-ului. Entuziaștii tehnici ar putea găsi detaliile despre acest cip deosebit de interesante. În plus, mini-KVM-ul nostru utilizează cipul **CH340**, susținând două hub-uri USB integrate atât pentru partea gazdă, cât și pentru partea țintă. Mini-KVM-ul nostru este comparabil cu multe carduri de captură video disponibile pe piață.
 
-#### Please hang tight!
+#### Vă rugăm să aveți răbdare!
 
-We're hard working here and in the process of **open-sourcing both our software and hardware**. Good things take time to cook!  We will keep you updated on this progress within our community. Thanks for your patience and understanding! Stay tuned and cheers!
+Lucrăm din greu aici și suntem în proces de **open-sourcing atât software-ul, cât și hardware-ul nostru**. Lucrurile bune necesită timp pentru a fi realizate! Vă vom ține la curent cu acest progres în cadrul comunității noastre. Mulțumim pentru răbdare și înțelegere! Rămâneți pe fază și noroc!
 
-### Addressing Concerns
+### Abordarea Îngrijorărilor
 
-We understand that some people may be *sceptical*, given the number of scam crowdfunding projects out there. Here are a few points that might reassure you about our crowdfunding project:
+Înțelegem că unii oameni ar putea fi *sceptici*, având în vedere numărul de proiecte de crowdfunding înșelătoare. Iată câteva puncte care ar putea să vă liniștească în privința proiectului nostru de crowdfunding:
 
-1. **Trust the Crowd Supply Platform:** This is *one of the top crowdfunding platforms for electronic products* in the US **since 2012**. The Crowd Supply team has been closely overseeing our development progress of the Openterface Mini-KVM and offering us professional advice to ensure that what we have been creating is just right for you. A shout of thanks to the Crowd Supply team here too! Moreover, You can read more about how your rights as a backer are protected on the Crowd Supply platform, including for our project: [Crowd Supply Guide: How are Backers Protected?](https://www.crowdsupply.com/guide/backer-protection)
-    > "Every project that has ever received funds through Crowd Supply has delivered to their backers (or is on track to do so). You are not funding someone’s pipe-dream; at Crowd Supply, you are purchasing an actual product."
+1. **Încredere în Platforma Crowd Supply:** Aceasta este *una dintre cele mai bune platforme de crowdfunding pentru produse electronice* din SUA **din 2012**. Echipa Crowd Supply a supravegheat îndeaproape progresul nostru de dezvoltare al Openterface Mini-KVM și ne-a oferit sfaturi profesionale pentru a ne asigura că ceea ce am creat este perfect pentru voi. Un mare mulțumesc și echipei Crowd Supply! În plus, puteți citi mai multe despre cum sunt protejate drepturile voastre ca susținători pe platforma Crowd Supply, inclusiv pentru proiectul nostru: [Crowd Supply Guide: How are Backers Protected?](https://www.crowdsupply.com/guide/backer-protection)
+    > "Fiecare proiect care a primit vreodată fonduri prin Crowd Supply a livrat susținătorilor săi (sau este pe cale să o facă). Nu finanțați visul cuiva; la Crowd Supply, achiziționați un produs real."
 
-2. **Trust the Experience of Our Team:** We are a group of versatile developers, skilful makers, and experienced project and production managers, especially in work that involves a blend of both hardware and software development. We are an innovative tech creative studio with *over six years of experience in advanced tech projects* in fields such as IoT, AI, edge computing, and tech art. To learn more about us, check out our [TechxArtisan Studio](https://techxartisan.com/en/) website.
+2. **Încredere în Experiența Echipei Noastre:** Suntem un grup de dezvoltatori versatili, creatori pricepuți și manageri de proiect și producție experimentați, în special în munca care implică o combinație de dezvoltare hardware și software. Suntem un studio creativ tehnologic inovator cu *peste șase ani de experiență în proiecte tehnologice avansate* în domenii precum IoT, AI, edge computing și artă tehnologică. Pentru a afla mai multe despre noi, verificați site-ul nostru [TechxArtisan Studio](https://techxartisan.com/en/).
 
-3. **Trust the Culture of Our Team:** Our team is dedicated not only to technical excellence but also to the overall user experience. This includes everything from user and developer documentation to design aesthetics. We are passionate about cutting-edge technology and frequently engage in spirited discussions about new advancements from various perspectives. These debates help us define what makes an outstanding electronic product and how to bring it to life through our teamwork. This collaborative approach ensures our products enhance user experience and demonstrate our dedication to quality and detail. Furthermore, we embrace a culture of open source and community collaboration.
+3. **Încredere în Cultura Echipei Noastre:** Echipa noastră este dedicată nu doar excelenței tehnice, ci și experienței generale a utilizatorului. Aceasta include totul, de la documentația pentru utilizatori și dezvoltatori până la estetica designului. Suntem pasionați de tehnologia de vârf și ne angajăm frecvent în discuții aprinse despre noi progrese din diverse perspective. Aceste dezbateri ne ajută să definim ce face un produs electronic remarcabil și cum să-l aducem la viață prin munca noastră în echipă. Această abordare colaborativă asigură că produsele noastre îmbunătățesc experiența utilizatorului și demonstrează dedicarea noastră pentru calitate și detalii. În plus, îmbrățișăm o cultură de open source și colaborare comunitară.
 
-4. **Observe What We Have Achieved and Are Doing:** We’ve been working very hard on this project. You can join our community on [Reddit](https://www.reddit.com/r/Openterface_miniKVM/) and [Discord](/discord), see what we have been crafting from the very early prototype to the current pre-production version, and stay informed about our up-to-date progress. We would love to see you in our community and engage with us!
+4. **Observați Ce Am Realizat și Ce Facem:** Am muncit foarte mult la acest proiect. Puteți să vă alăturați comunității noastre pe [Reddit](https://www.reddit.com/r/Openterface_miniKVM/) și [Discord](/discord), să vedeți ce am creat de la prototipul foarte timpuriu până la versiunea actuală pre-producție și să rămâneți informați despre progresul nostru actualizat. Ne-ar plăcea să vă vedem în comunitatea noastră și să interacționați cu noi!
 
-5. **Chat with Us Directly:** If you have any questions or concerns about our Mini-KVM, please don't hesitate to email me at info@techxartisan.com. Additionally, we are planning a livestream, hosted by [**David Groom from MAKE: Magazine**](https://www.youtube.com/@MAKE/streams) on Wednesday, the 29th. We'll be discussing our Openterface Mini-KVM and the story behind it. I will post the video later on our community page.
+5. **Discutați Direct cu Noi:** Dacă aveți întrebări sau îngrijorări despre Mini-KVM-ul nostru, nu ezitați să-mi trimiteți un email la info@techxartisan.com. În plus, planificăm un livestream, găzduit de [**David Groom de la MAKE: Magazine**](https://www.youtube.com/@MAKE/streams) miercuri, 29. Vom discuta despre Openterface Mini-KVM și povestea din spatele acestuia. Voi posta videoclipul mai târziu pe pagina noastră de comunitate.
 
-Finally, we totally understand if you’re still unsure. That’s OK! If your work involves managing headless devices, we’re confident our efforts in crafting the Openterface Mini-KVM will eventually win you over. Wait and see! 😄
+În final, înțelegem perfect dacă încă sunteți nesiguri. Este OK! Dacă munca voastră implică gestionarea dispozitivelor fără cap, suntem încrezători că eforturile noastre de a crea Openterface Mini-KVM vă vor cuceri în cele din urmă. Așteptați și vedeți! 😄
 
-### What’s Next?
+### Ce Urmează?
 
-Stay tuned for next week’s update, where we’ll dive into more details about our host application functions, its roadmap, production progress, real use cases shared by our beta team, and more! In the meantime, check out our website [Openterface](/) and [FAQs](/faq/), consider [backing us on Crowd Supply](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm), and help spread the word!
+Rămâneți pe fază pentru actualizarea de săptămâna viitoare, unde vom aprofunda mai multe detalii despre funcțiile aplicației noastre gazdă, foaia de parcurs, progresul producției, cazuri reale de utilizare împărtășite de echipa noastră beta și multe altele! Între timp, verificați site-ul nostru [Openterface](/) și [FAQs](/faq/), luați în considerare [susținerea noastră pe Crowd Supply](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm) și ajutați-ne să răspândim vestea!
 
-Thank you for reading and being part of this journey with us! Peace!
+Mulțumim că ați citit și că faceți parte din această călătorie cu noi! Pace!
 
-Best,
+Cu drag,
 
-Billy Wang, Project Manager
+Billy Wang, Manager de Proiect
 
-Openterface Team | TechxArtisan Studio
+Echipa Openterface | TechxArtisan Studio

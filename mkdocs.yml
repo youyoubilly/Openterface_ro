@@ -1,8 +1,8 @@
 # Project information
-site_name: Openterface | Bridging Interfaces to Open Possibilities
+site_name: Openterface | Conectăm Interfețele la Posibilități Deschise
 site_url: https://ro.openterface.com/
 site_author: Billy Wang
-site_description: A Feature-rich, Open-source and Community-driven KVM-over-USB Solution
+site_description: O soluție KVM-over-USB bogată în funcții, open-source și susținută de comunitate
 
 # Repository
 repo_name: Openterface
@@ -10,12 +10,12 @@ repo_url: https://github.com/TechxArtisanStudio/Openterface
 
 # Copyright
 copyright: >-
-  Copyright &copy; All rights reserved. 2023 <a href="https://www.openterface.com">Openterface</a> | <a href="https://www.techxartisan.com">TechxArtisan</a> | Guangzhou Billio Tech. Co., Ltd. <br>
-  <a href="">Home</a> |
-  <a href="/terms-of-service">Terms of Service</a> |
-  <a href="/privacy-policy">Privacy Policy</a> | 
-  <a href="#__consent">Cookie Settings</a> | 
-  <a href="/contact">Contact Us</a>
+  Drepturi de autor &copy; Toate drepturile rezervate. 2023 <a href="https://www.openterface.com">Openterface</a> | <a href="https://www.techxartisan.com">TechxArtisan</a> | Guangzhou Billio Tech. Co., Ltd. <br>
+  <a href="">Acasă</a> |
+  <a href="/terms-of-service">Termeni și condiții</a> |
+  <a href="/privacy-policy">Politica de confidențialitate</a> | 
+  <a href="#__consent">Setări cookie-uri</a> | 
+  <a href="/contact">Contactați-ne</a>
 
 extra_css:
   - assets/stylesheets/extra.css
@@ -120,15 +120,15 @@ extra:
     - name: Español
       link: https://es.openterface.com/
       lang: es
-    # - name: 简体中文
-    #   link: https://cn.openterface.com/
-    #   lang: zh
-    # - name: Português
-    #   link: https://pt.openterface.com/
-    #   lang: pt
-    # - name: Română
-    #   link: https://ro.openterface.com/
-    #   lang: ro
+    - name: Português
+      link: https://pt.openterface.com/
+      lang: pt
+    - name: Română
+      link: https://ro.openterface.com/
+      lang: ro
+    - name: 简体中文
+      link: https://cn.openterface.com/
+      lang: zh
     # - name: Svenska
     #   link: https://sv.openterface.com/
     #   lang: sv
@@ -140,10 +140,10 @@ extra:
     #   lang: nl
 
   consent:
-    title: Cookie Consent
+    title: Consimțământ pentru Cookie-uri
     description: >- 
-      We use cookies to enhance quality of docs content, analyse site effectiveness and needs. 
-      By consenting, you help us improve our website. Thanks!
+      Folosim cookie-uri pentru a îmbunătăți calitatea conținutului documentației și pentru a analiza eficiența și nevoile site-ului. 
+      Prin consimțământul tău, ne ajuți să îmbunătățim site-ul nostru. Mulțumim!
     actions:
       - accept
       - reject
@@ -211,37 +211,37 @@ plugins:
       archive: false
 
 nav:
-  - Home: index.md
-  - Doc:
-    - Quick Start: quick-start.md
-    - Features: features.md
-    - How to Connect: how-to-connect.md
-    - Open Software: app.md
-    - Open Hardware: open-hardware.md
-    - Basic Control: basic.md
-    - Switchable USB Port: usb-switch.md
-    - Extension Pins: pin.md
-    - Use Cases: use-cases.md
-    - Specifications: specifications.md
-    - What's in the Box: whats-in-the-box.md
-    - Accessories: accessories.md
-    - How It Works: how-it-works.md
-    - Why Openterface: why-openterface.md
-    - Comparison: comparison.md
-    - FAQs: faq.md
-    - Development:
-      - Test & Dev: test.md
-      - Roadmap: roadmap.md
-      - Contributing: contributing.md
-  - FAQs: /faq
-  - Use Cases: /use-cases
+  - Acasă: index.md
+  - Documentație:
+    - Ghid Rapid: quick-start.md
+    - Funcționalități: features.md
+    - Cum să Conectezi: how-to-connect.md
+    - Software Deschis: app.md
+    - Hardware Deschis: open-hardware.md
+    - Control de Bază: basic.md
+    - Port USB Comutabil: usb-switch.md
+    - Pini de Extensie: pin.md
+    - Cazuri de Utilizare: use-cases.md
+    - Specificații: specifications.md
+    - Ce Găsești în Cutie: whats-in-the-box.md
+    - Accesorii: accessories.md
+    - Cum Funcționează: how-it-works.md
+    - De ce Openterface: why-openterface.md
+    - Comparație: comparison.md
+    - Întrebări Frecvente: faq.md
+    - Dezvoltare:
+      - Testare și Dezvoltare: test.md
+      - Foaie de Parcurs: roadmap.md
+      - Contribuții: contributing.md
+  - Întrebări Frecvente: /faq
+  - Cazuri de Utilizare: /use-cases
   - Blog:
     - blog/index.md
   - Reddit: /reddit
   - Discord: /discord
-  - About:
+  - Despre:
     - Contact: contact.md
-    - Policies:
-      - Privacy Policy: privacy-policy.md
-      - Terms of Service: terms-of-service.md
-      - Return, Refunds & Warranty: return-refunds-warranty.md
+    - Politici:
+      - Politica de Confidențialitate: privacy-policy.md
+      - Termeni și Condiții: terms-of-service.md
+      - Returnări, Rambursări și Garanție: return-refunds-warranty.md

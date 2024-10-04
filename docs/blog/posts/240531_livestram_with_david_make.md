@@ -6,55 +6,55 @@ categories:
   - Updates
 ---
 
-# Casual Chat with David Groom from MAKE: Magazine: The Story of Openterface Mini-KVM
+# Discuție Relaxată cu David Groom de la MAKE: Magazine: Povestea Openterface Mini-KVM
 
-Hi everyone!
+Salutare tuturor!
 
-We just wrapped up an awesome [YouTube livestream](https://www.youtube.com/live/lwitzvmxsgc?si=s9a1t5_Sce5v22e1) with David Groom from MAKE: Magazine! During the session, we delved into the story behind our Openterface Mini-KVM, an innovative open-source hardware solution designed to effortlessly control headless devices and single-board computers like Raspberry Pis using just your laptop. You can check out the YouTube livestream for more details or simply read the story below.
+Tocmai am încheiat un [livestream pe YouTube](https://www.youtube.com/live/lwitzvmxsgc?si=s9a1t5_Sce5v22e1) fantastic cu David Groom de la MAKE: Magazine! În timpul sesiunii, am discutat despre povestea din spatele Openterface Mini-KVM, o soluție hardware open-source inovatoare, concepută pentru a controla cu ușurință dispozitivele fără monitor și computerele single-board, cum ar fi Raspberry Pi, folosind doar laptopul tău. Puteți viziona livestream-ul pe YouTube pentru mai multe detalii sau citiți povestea de mai jos.
 
 ![youtube-with-david-2](https://www.crowdsupply.com/img/2b83/081f1376-b266-4e83-b1af-5628dbe62b83/youtube-with-david_jpg_gallery-lg.jpg)
 
-## The Birth of an Idea
+## Nașterea unei Idei
 
-The journey of the Mini-KVM began in the bustling city of Guangzhou, China, within our TechxArtisan studio. Over the past five years, we have been deeply involved in numerous tech art projects for local and international artists. Our work includes constructing interactive lighting installations with AI detection, robotic arms for theatre performances, self-driving mini cars that solve random mazes, and even a robot dog designed to explore no man's lands like deserts and forests.
+Călătoria Mini-KVM-ului a început în orașul aglomerat Guangzhou, China, în studioul nostru TechxArtisan. În ultimii cinci ani, am fost implicați profund în numeroase proiecte de artă tehnologică pentru artiști locali și internaționali. Munca noastră include construirea de instalații de iluminat interactive cu detectare AI, brațe robotice pentru spectacole de teatru, mini mașini autonome care rezolvă labirinturi și chiar un câine robot conceput pentru a explora zone nepopulate, cum ar fi deșerturile și pădurile.
 
 ![techxartisan_tech_art](https://www.crowdsupply.com/img/bce8/9c580077-993a-42b2-b781-a30d34acbce8/techxartisan-tech-art_jpg_gallery-lg.jpg)
 
-### A Common Headache
-A recurring challenge in our work was managing a plethora of headless computers like Raspberry Pis and Jetson Nanos, which lacked monitors, keyboards, or network connectivity. This often led to frantic searches for spare monitors and keyboards to troubleshoot and access these devices in harsh conditions.
+### O Durerere de Cap Comună
+O provocare recurentă în munca noastră a fost gestionarea unei multitudini de computere fără monitor, cum ar fi Raspberry Pi și Jetson Nano, care nu aveau monitoare, tastaturi sau conectivitate de rețea. Acest lucru ducea adesea la căutări frenetice de monitoare și tastaturi de rezervă pentru a depana și accesa aceste dispozitive în condiții dificile.
 
-### Makeshift Solutions
-Initially, we resorted to makeshift portable monitor solutions powered by battery packs and wireless mini-keyboards with touchpads. However, these were often forgotten or misplaced, prompting the need for a dedicated hardware solution that could leverage the laptops we always carried for coding and setup.
+### Soluții Improvizate
+Inițial, am recurs la soluții improvizate de monitoare portabile alimentate de baterii și tastaturi mini wireless cu touchpad-uri. Cu toate acestea, acestea erau adesea uitate sau pierdute, ceea ce a dus la necesitatea unei soluții hardware dedicate care să poată folosi laptopurile pe care le aveam mereu la noi pentru codare și configurare.
 
 ![diy-monitor-keyboard](https://www.crowdsupply.com/img/2efd/4459eff9-2d01-4552-ac91-a1941ed82efd/diy-monitor-keyboard_jpg_gallery-lg.jpg)
-*These two gadgets must be carried for on-site projects.*
+*Aceste două gadgeturi trebuie transportate pentru proiectele la fața locului.*
 
-### The First Prototype
-Our first DIY prototype was a simple yet effective combination of a capture card to retrieve video from the headless device and a USB keyboard/mouse simulator, all integrated into a single USB cable connecting to our laptops. 
+### Primul Prototip
+Primul nostru prototip DIY a fost o combinație simplă, dar eficientă, de un card de captură pentru a prelua video de la dispozitivul fără monitor și un simulator de tastatură/mouse USB, toate integrate într-un singur cablu USB conectat la laptopurile noastre.
 
 ![/early-mini-kvm-pcb](https://www.crowdsupply.com/img/1f7e/fb91d879-dee7-45cc-bbdc-dc3ea5731f7e/early-mini-kvm-pcb_jpg_gallery-lg.jpg)
-*One of the early versions of the mini-KVM PCB*
+*Una dintre versiunile timpurii ale PCB-ului mini-KVM*
 
-We showcased our cool tech art projects at the Shenzhen Maker Faire in November 2023, intending to show off the mini-KVM prototype to David. However, we got so excited about the gifts from David and forgot it!
+Am prezentat proiectele noastre de artă tehnologică la Shenzhen Maker Faire în noiembrie 2023, intenționând să-i arătăm prototipul mini-KVM lui David. Cu toate acestea, ne-am entuziasmat atât de mult de cadourile de la David încât am uitat!
 
 ![techxartisan_team_with_david_groom](https://www.crowdsupply.com/img/bc4e/17bdcc6e-0a34-4f2f-bf64-fee0b8d6bc4e/techxartisan-team-with-david-groom_jpg_gallery-lg.jpg)
-*Stickers and postcards from MAKE: Magazine are seriously cool!*
+*Autocolantele și cărțile poștale de la MAKE: Magazine sunt super cool!*
 
-## Community Feedback and Development
-After sharing our prototype on Reddit, we received invaluable feedback from [the community](http://openterface.com/community/#community-contributors), encouraging us to refine and develop our solution into a polished product. This community support was instrumental in transforming our makeshift device into a sleek, efficient tool for homelabbers, sysadmins, tech enthusiasts, and anyone working with headless computers.
+## Feedback-ul Comunității și Dezvoltare
+După ce am împărtășit prototipul nostru pe Reddit, am primit feedback neprețuit de la [comunitate](http://openterface.com/community/#community-contributors), încurajându-ne să rafinăm și să dezvoltăm soluția noastră într-un produs finisat. Acest sprijin comunitar a fost esențial în transformarea dispozitivului nostru improvizat într-un instrument elegant și eficient pentru homelabbers, sysadmini, entuziaști tech și oricine lucrează cu computere fără monitor.
 
 ![got_feedback_from_reddit](https://www.crowdsupply.com/img/b24b/e04dfa15-1e5b-4bfb-b97c-acdba784b24b/got-feedback-from-reddit_jpg_gallery-lg.jpg)
-*Received a super amount of feedback from homelabbers*
+*Am primit o mulțime de feedback de la homelabbers*
 
-## Overcoming Doubts
-Despite initial doubts about competing with existing similar solutions, the positive response and constructive suggestions from online communities helped clarify potential use cases and boosted our confidence. Without this support and affirmation of our efforts, we might not have pursued the project further.
+## Depășirea Îndoielilor
+În ciuda îndoielilor inițiale despre concurența cu soluțiile similare existente, răspunsul pozitiv și sugestiile constructive din comunitățile online ne-au ajutat să clarificăm cazurile de utilizare potențiale și ne-au crescut încrederea. Fără acest sprijin și confirmarea eforturilor noastre, este posibil să nu fi continuat proiectul.
 
-## Crowdfunding and Future Plans
-The crowdfunding campaign for the Openterface Mini-KVM on Crowd Supply is picking up serious steam, with about two weeks left to go. This campaign isn't just about developing the Mini-KVM; it's a testament to the power of community-driven innovation. Next up, we'll dive into production management, software improvements, and getting this handy gadget delivered to our awesome backers—all powered by our amazing open-source community.
+## Crowdfunding și Planuri de Viitor
+Campania de crowdfunding pentru Openterface Mini-KVM pe Crowd Supply prinde avânt serios, cu aproximativ două săptămâni rămase. Această campanie nu este doar despre dezvoltarea Mini-KVM-ului; este o dovadă a puterii inovației conduse de comunitate. Următorul pas va fi gestionarea producției, îmbunătățirea software-ului și livrarea acestui gadget util susținătorilor noștri minunați—totul alimentat de comunitatea noastră open-source uimitoare.
 
 ![techxartisan_openterface_discord](https://www.crowdsupply.com/img/8d7a/58e213e7-7a81-47b4-9d6b-69be3c698d7a/techxartisan-openterface-discord_jpg_gallery-lg.jpg)
-*Beta testers are sharing their use of the Openterface Mini-KVM in their daily tech tasks on TechxArtisan's Discord*
+*Beta testerii își împărtășesc utilizarea Openterface Mini-KVM în sarcinile lor zilnice pe Discord-ul TechxArtisan*
 
-## Embracing the Open-Source Vision
+## Îmbrățișând Viziunea Open-Source
 
-The Openterface Mini-KVM is a testament to our creativity and perseverance, and the supportive open-source community. What began as a simple solution for our personal challenges has evolved into a versatile, open-source tool poised to benefit hackers, tinkerers, and tech enthusiasts worldwide. Stay tuned for more updates as the Mini-KVM moves closer to its official release!
+Openterface Mini-KVM este o dovadă a creativității și perseverenței noastre, precum și a comunității open-source de sprijin. Ceea ce a început ca o soluție simplă pentru provocările noastre personale a evoluat într-un instrument versatil, open-source, pregătit să beneficieze hackeri, tinkereri și entuziaști tech din întreaga lume. Rămâneți pe fază pentru mai multe actualizări pe măsură ce Mini-KVM-ul se apropie de lansarea oficială!

@@ -1,95 +1,89 @@
-# Test & Dev
+# Testare & Dezvoltare
 
-## 💻 Compatibility
+## 💻 Compatibilitate
 
-- **OS Support**: Verify that different OS versions can use the corresponding host app.
-- **Performance Testing**: Evaluate performance on various host systems.
-- **OS Version Testing**: Ensure compatibility across different OS versions.
-- **Device-Specific Issues**: Identify and resolve issues specific to certain devices or OS versions.
+- **Suport OS**: Verifică dacă diferitele versiuni de OS pot utiliza aplicația gazdă corespunzătoare.
+- **Testare Performanță**: Evaluează performanța pe diverse sisteme gazdă.
+- **Testare Versiuni OS**: Asigură compatibilitatea pe diferite versiuni de OS.
+- **Probleme Specifice Dispozitivelor**: Identifică și rezolvă problemele specifice anumitor dispozitive sau versiuni de OS.
 
-## 🖱 Mouse Control
+## 🖱 Control Mouse
 
 <div class="annotate" markdown>
 
-- **Movement Latency**: Ensure smooth and responsive control.
-- **Mouse Buttons**: Test left, right, and middle mouse buttons; click & drag.
-- **Scrolling**: Evaluate scrolling speed and direction.
-- **Accuracy** of mouse position mapping in *Absolute* mode (1)
-- **Sensitivity** of mouse movement in *Relative* mode (2)
+- **Latență Mișcare**: Asigură un control fluid și receptiv.
+- **Butoane Mouse**: Testează butoanele stânga, dreapta și mijloc; click & drag.
+- **Derulare**: Evaluează viteza și direcția de derulare.
+- **Acuratețea** mapării poziției mouse-ului în modul *Absolut* (1)
+- **Sensibilitatea** mișcării mouse-ului în modul *Relativ* (2)
 
 </div>
 
-1. Ensure the target's mouse position is accurately mapped to the host's. This can be impacted by the target's resolution and changes in app window size.
-2. Ensure the mouse movement meets intuitive expectations.
+1. Asigură-te că poziția mouse-ului pe țintă este mapată corect pe gazdă. Acest lucru poate fi influențat de rezoluția țintei și de modificările dimensiunii ferestrei aplicației.
+2. Asigură-te că mișcarea mouse-ului corespunde așteptărilor intuitive.
 
-## ⌨️ Keyboard
+## ⌨️ Tastatură
 
 <div class="annotate" markdown>
 
-- **Typing Responsiveness**: Ensure it meets intuitive expectations.
-- **Full Keyboard Mapping**: Especially for various special symbols.
-- **Modifiers**: Keys like `Ctrl`, `Shift`, `Alt` and `Cmd`, or `Win`.
-- **Key Combinations**: Technically supports up to 8 modifier keys and 6 additional keys pressed simultaneously.
-- **Media & ACPI Keys**: Keys like `Volume-`, `Volume+`, `Mute`, `Wake-up`, `Sleep` and `Power`.
-- **Keyboard Layouts**: Ensure consistent pairing for various layouts. (1)
+- **Receptivitate Tastare**: Asigură-te că răspunde așteptărilor intuitive.
+- **Mapare Completă a Tastaturii**: În special pentru diverse simboluri speciale.
+- **Modificatori**: Taste precum `Ctrl`, `Shift`, `Alt` și `Cmd` sau `Win`.
+- **Combinații de Taste**: Suportă tehnic până la 8 taste modificatoare și 6 taste suplimentare apăsate simultan.
+- **Taste Media & ACPI**: Taste precum `Volum-`, `Volum+`, `Mute`, `Wake-up`, `Sleep` și `Power`.
+- **Layout-uri Tastatură**: Asigură o asociere consistentă pentru diverse layout-uri. (1)
 
 !!! tip
 
-    - **Keyboard Tester**: You can utilize an online keyboard testing tool on both the host and target computers to verify whether their keystrokes are synchronized.
-    - **CH9329 Chip**: Check [the details](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware/tree/main/CH9329) to understand the limits of keyboard/mouse control in the Openterface Mini-KVM.
+    - **Tester Tastatură**: Poți utiliza un instrument online de testare a tastaturii atât pe computerul gazdă, cât și pe cel țintă pentru a verifica dacă apăsările de taste sunt sincronizate.
+    - **Chip CH9329**: Verifică [detaliile](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware/tree/main/CH9329) pentru a înțelege limitele controlului tastaturii/mouse-ului în Openterface Mini-KVM.
 
 </div>
 
-1. ⌨️ 🌏 Keyboard layouts vary globally across regions and languages, with popular types like QWERTY, AZERTY, QWERTZ, and Dvorak.
+1. ⌨️ 🌏 Layout-urile tastaturii variază la nivel global în funcție de regiuni și limbi, cu tipuri populare precum QWERTY, AZERTY, QWERTZ și Dvorak.
 
-## ⚙️ BIOS-Level Access
+## ⚙️ Acces la Nivel BIOS
 
-- **BIOS Entry**: Test entering BIOS during the boot sequence.
-- **Functionality**: Ensure full keyboard and mouse control within the BIOS.
-- **Compatibility**: Verify BIOS access across different motherboard brands and models.
+- **Intrare BIOS**: Testează intrarea în BIOS în timpul secvenței de boot.
+- **Funcționalitate**: Asigură control complet al tastaturii și mouse-ului în BIOS.
+- **Compatibilitate**: Verifică accesul la BIOS pe diferite mărci și modele de plăci de bază.
 
-## 🔊 Sound
+## 🔊 Sunet
 
-- **Sound Quality**: Evaluate the clarity and synchronisation of audio playback.
-- **Latency**: Measure any delays between actions and their corresponding sound.
-- **Compatibility**: Test various audio outputs on different operating systems.
+- **Calitatea Sunetului**: Evaluează claritatea și sincronizarea redării audio.
+- **Latență**: Măsoară eventualele întârzieri între acțiuni și sunetul corespunzător.
+- **Compatibilitate**: Testează diverse ieșiri audio pe diferite sisteme de operare.
 
 ## 🎥 Video
 
-- **Resolution Support**: Test various screen resolutions and aspect ratios.
-- **Frame Rate**: Assess performance at different refresh rates.
-- **Display Quality**: Check for any visual artefacts or latency issues.
+- **Suport Rezoluție**: Testează diverse rezoluții și raporturi de aspect ale ecranului.
+- **Rată Cadre**: Evaluează performanța la diferite rate de reîmprospătare.
+- **Calitatea Afișajului**: Verifică eventualele artefacte vizuale sau probleme de latență.
 
-## 🔄 Switchable USB Port
+## 🔄 Port USB Comutabil
 
-- **Toggle Switch Testing**: Test the toggle switch under various scenarios for reliability.
-- **Port Compatibility**: Ensure the USB-A 2.0 port supports various USB devices like flash drives and webcams.
-- **Power Limitations**: Confirm the port’s power supply capacity and its adequacy for different devices.
+- **Testare Comutator**: Testează comutatorul în diverse scenarii pentru fiabilitate.
+- **Compatibilitate Port**: Asigură-te că portul USB-A 2.0 suportă diverse dispozitive USB, precum stick-uri de memorie și camere web.
+- **Limitări de Putere**: Confirmă capacitatea de alimentare a portului și adecvarea acestuia pentru diferite dispozitive.
 
-## 🔌 Plug & Un-Plug
+## 🔌 Conectare & Deconectare
 
-- **Connection Testing**: Test scenarios with different connection and disconnection sequences.
-- **Error Handling**: Ensure device recognises and recovers from improper connections.
-- **Stability**: Verify stability when devices are plugged and unplugged repeatedly.
+- **Testare Conexiune**: Testează scenarii cu diferite secvențe de conectare și deconectare.
+- **Gestionare Erori**: Asigură-te că dispozitivul recunoaște și se recuperează din conexiuni necorespunzătoare.
+- **Stabilitate**: Verifică stabilitatea atunci când dispozitivele sunt conectate și deconectate repetat.
 
-## 📝 Text Transfer
+## 📝 Transfer Text
 
-- **Functionality Testing**: Verify that the host application can successfully transfer text from the host computer to the target device using ASCII codes.
+- **Testare Funcționalitate**: Verifică dacă aplicația gazdă poate transfera cu succes text de pe computerul gazdă pe dispozitivul țintă folosind coduri ASCII.
+- **Integritatea Conținutului**: Asigură-te că textul transferat de pe gazdă pe dispozitivul țintă rămâne intact și este reprodus corect.
+- **Gestionarea Caracterelor Speciale**: Testează funcția de transfer text cu diverse caractere ASCII pentru a asigura gestionarea și reproducerea corectă pe dispozitivul țintă.
+- **Testare Lungime Text**: Testează funcția de transfer text cu texte de diferite lungimi pentru a verifica dacă poate acomoda diverse dimensiuni de text fără probleme.
+- **Gestionare Erori**: Testează scenarii de eroare, cum ar fi pierderea conexiunii sau întreruperea în timpul transferului de text, pentru a asigura că aplicația gazdă gestionează aceste situații cu grație și oferă feedback adecvat utilizatorului.
+- **Testare Performanță**: Evaluează performanța funcției de transfer text în diverse condiții, inclusiv pe computere mai vechi sau mai lente, pentru a identifica eventualele probleme cu recepționarea semnalelor HID și pentru a asigura o funcționare lină.
+- **Testare Interfață Utilizator**: Asigură-te că interfața utilizatorului a aplicației gazdă oferă controale intuitive și feedback pentru inițierea și monitorizarea operațiunilor de transfer text, făcându-l ușor de înțeles și utilizat eficient.
 
-- **Content Integrity**: Ensure the text content transferred from the host to the target device remains intact and is accurately reproduced.
+## Diverse
 
-- **Special Characters Handling**: Test the text transfer feature with various ASCII characters to ensure proper handling and reproduction on the target device.
-
-- **Text Length Testing**: Test the text transfer feature with text of varying lengths to verify that it can accommodate different text sizes without issues.
-
-- **Error Handling**: Test error scenarios, such as loss of connection or interruption during text transfer, to ensure the host application handles these situations gracefully and provides appropriate feedback to the user.
-
-- **Performance Testing**: Evaluate the performance of the text transfer feature under various conditions, including on older or slower computers, to identify any potential issues with mis-receiving HID input signals and ensure smooth operation.
-
-- **User Interface Testing**: Ensure the user interface of the host application provides intuitive controls and feedback for initiating and monitoring text transfer operations, making it easy for users to understand and use this feature effectively.
-
-## Additional
-
-- **Error Handling**: Test error handling mechanisms for graceful recovery from disruptions.
-- **Performance**: Assess the mini-KVM’s performance under various workload scenarios.
-- **Stability**: Conduct stress tests for long-term stability and reliability.
+- **Gestionare Erori**: Testează mecanismele de gestionare a erorilor pentru o recuperare grațioasă din întreruperi.
+- **Performanță**: Evaluează performanța mini-KVM-ului în diverse scenarii de lucru.
+- **Stabilitate**: Efectuează teste de stres pentru stabilitate și fiabilitate pe termen lung.

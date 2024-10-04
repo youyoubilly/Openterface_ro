@@ -1,126 +1,126 @@
-# Switchable USB Port Mechanics
+# Mecanica Portului USB Comutabil
 
 ![switch-graphics](images/product/switch-graphics.svg#only-light){:style="width:460px"}
 ![switch-graphics](images/product/switch-graphics_1.svg#only-dark){:style="width:460px"}
 
-The mini-KVM device features a switchable USB-A 2.0 port that can be toggled between the host and target computers, but not both simultaneously. This functionality is controlled by both a physical toggle switch and a software switch in the host application. This document explains the mechanics and logic behind these switches.
+Dispozitivul mini-KVM dispune de un port USB-A 2.0 comutabil care poate fi alternat între computerul gazdă și cel țintă, dar nu ambele simultan. Această funcționalitate este controlată atât de un comutator fizic, cât și de un comutator software în aplicația gazdă. Acest document explică mecanica și logica din spatele acestor comutatoare.
 
-## Switch Types
+## Tipuri de Comutatoare
 
-- **Software Switch**: A toggle button in the host application.
-      - Toggles the USB port connection between host and target computers
+- **Comutator Software**: Un buton de comutare în aplicația gazdă.
+      - Comută conexiunea portului USB între computerul gazdă și cel țintă
 
-- ![Toggle Switch](images/shell-icons/toggle-h-t.svg#only-light){:style="height:20px"} ![Toggle Switch](images/shell-icons/toggle-h-t_1.svg#only-dark){:style="height:20px"} **Hardware Switch**: A physical two-position toggle switch on the device.
-      - Inward position: Connects to the host computer
-      - Outward position: Connects to the target computer
+- ![Toggle Switch](images/shell-icons/toggle-h-t.svg#only-light){:style="height:20px"} ![Toggle Switch](images/shell-icons/toggle-h-t_1.svg#only-dark){:style="height:20px"} **Comutator Hardware**: Un comutator fizic cu două poziții pe dispozitiv.
+      - Poziția interioară: Conectează la computerul gazdă
+      - Poziția exterioară: Conectează la computerul țintă
 
-## Initial Setup and Synchronization
+## Configurare Inițială și Sincronizare
 
-When the mini-KVM is properly connected and the host app is launched:
+Când mini-KVM-ul este conectat corect și aplicația gazdă este lansată:
 
-1. The device's actual USB port connection (circuit) initially defaults to the host connection.
-2. The host app detects the current position of the hardware switch, which is set to either the Host or Target computer.
-3. The software switch synchronizes with the hardware switch position.
-4. The actual circuit connection is updated to match the switch positions.
+1. Conexiunea reală a portului USB al dispozitivului (circuitul) se conectează inițial la gazdă.
+2. Aplicația gazdă detectează poziția actuală a comutatorului hardware, care este setată fie la computerul gazdă, fie la cel țintă.
+3. Comutatorul software se sincronizează cu poziția comutatorului hardware.
+4. Conexiunea reală a circuitului este actualizată pentru a se potrivi cu pozițiile comutatoarelor.
 
-!!! warning "Hardware Limitation"
-    If a USB drive is already plugged into the device before powering on or launching the host application, the host computer will issue a warning about unsafe USB device removal. This is a hardware limitation for v1.9. Thus, it is recommended not to connect any USB device before powering up the device or starting our host app.
+!!! avertisment "Limitare Hardware"
+    Dacă un dispozitiv USB este deja conectat la dispozitiv înainte de pornire sau de lansarea aplicației gazdă, computerul gazdă va emite un avertisment despre eliminarea nesigură a dispozitivului USB. Aceasta este o limitare hardware pentru versiunea 1.9. Prin urmare, se recomandă să nu conectați niciun dispozitiv USB înainte de a porni dispozitivul sau de a lansa aplicația noastră gazdă.
 
-## Operational States
+## Stări Operaționale
 
-Due to the presence of both hardware and software switches, four possible states can occur:
+Datorită prezenței atât a comutatoarelor hardware, cât și a celor software, pot apărea patru stări posibile:
 
-- **State 1** (Synchronized, Connected to Host):
-      - Hardware Switch: Points to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
-      - Software Switch: Points to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
-      - USB Port Connection: Connected to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
+- **Starea 1** (Sincronizat, Conectat la Gazdă):
+      - Comutator Hardware: Indică Gazda ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
+      - Comutator Software: Indică Gazda ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
+      - Conexiune Port USB: Conectat la Gazdă ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
 
-- **State 2** (Synchronized, Connected to Target):
-      - Hardware Switch: Points to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
-      - Software Switch: Points to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
-      - USB Port Connection: Connected to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
+- **Starea 2** (Sincronizat, Conectat la Țintă):
+      - Comutator Hardware: Indică Ținta ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
+      - Comutator Software: Indică Ținta ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
+      - Conexiune Port USB: Conectat la Țintă ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
 
-- **State 3** (Out of Sync, USB Connected to Host):
-      - Hardware Switch: Points to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
-      - Software Switch: Points to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
-      - USB Port Connection: Connected to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
+- **Starea 3** (Desincronizat, USB Conectat la Gazdă):
+      - Comutator Hardware: Indică Ținta ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
+      - Comutator Software: Indică Gazda ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
+      - Conexiune Port USB: Conectat la Gazdă ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
 
-- **State 4** (Out of Sync, USB Connected to Target):
-      - Hardware Switch: Points to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
-      - Software Switch: Points to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
-      - USB Port Connection: Connected to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
+- **Starea 4** (Desincronizat, USB Conectat la Țintă):
+      - Comutator Hardware: Indică Gazda ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
+      - Comutator Software: Indică Ținta ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
+      - Conexiune Port USB: Conectat la Țintă ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
 
-## State Transitions and Logic
+## Tranziții și Logică de Stare
 
-### From **State 1** (Sync to Host)
+### Din **Starea 1** (Sincronizat la Gazdă)
 
-- ^^***Scenario 1a***^^: User Moves Hardware Switch to Target
-      - Update internal state variable to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
-      - Update host application display to show Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
-      - Switch actual circuit connection to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
-      - Transition to State 2, sync
+- ^^***Scenariul 1a***^^: Utilizatorul Mută Comutatorul Hardware la Țintă
+      - Actualizează variabila internă de stare la Țintă ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
+      - Actualizează afișajul aplicației gazdă pentru a arăta Ținta ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
+      - Comută conexiunea reală a circuitului la Țintă ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
+      - Tranziție la Starea 2, sincronizat
 
-- ***Scenario 1b***: User Clicks Software Switch to Target
-      - Update internal state variable to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
-      - Hardware switch position remains unchanged (pointing to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"})
-      - Switch actual circuit connection to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
-      - Transition to State 3, out of sync
+- ***Scenariul 1b***: Utilizatorul Apasă Comutatorul Software la Țintă
+      - Actualizează variabila internă de stare la Țintă ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
+      - Poziția comutatorului hardware rămâne neschimbată (indicând Gazda ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"})
+      - Comută conexiunea reală a circuitului la Țintă ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
+      - Tranziție la Starea 3, desincronizat
 
-### From **State 2** (Sync to Target)
+### Din **Starea 2** (Sincronizat la Țintă)
 
-- ^^***Scenario 2a***^^: User Moves Hardware Switch to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}:
-      - Update internal state variable to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
-      - Update software switch display to show Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
-      - Switch actual circuit connection to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
-      - Transition to State 1, sync
+- ^^***Scenariul 2a***^^: Utilizatorul Mută Comutatorul Hardware la Gazdă ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}:
+      - Actualizează variabila internă de stare la Gazdă ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
+      - Actualizează afișajul comutatorului software pentru a arăta Gazda ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
+      - Comută conexiunea reală a circuitului la Gazdă ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
+      - Tranziție la Starea 1, sincronizat
 
-- ***Scenario 2b***: User Clicks Software Switch to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}:
-      - Update internal state variable to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
-      - Hardware switch position remains unchanged (pointing to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"})
-      - Switch actual circuit connection to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
-      - Transition to State 4, out of sync
+- ***Scenariul 2b***: Utilizatorul Apasă Comutatorul Software la Gazdă ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}:
+      - Actualizează variabila internă de stare la Gazdă ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
+      - Poziția comutatorului hardware rămâne neschimbată (indicând Ținta ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"})
+      - Comută conexiunea reală a circuitului la Gazdă ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
+      - Tranziție la Starea 4, desincronizat
 
-### From **State 3** (Out of Sync, USB Connected to Host)
+### Din **Starea 3** (Desincronizat, USB Conectat la Gazdă)
 
-- ^^***Scenario 3a***^^: User Moves Hardware Switch to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}:
-      - No changes to variables
-      - Transition to State 2, sync
+- ^^***Scenariul 3a***^^: Utilizatorul Mută Comutatorul Hardware la Țintă ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}:
+      - Fără modificări ale variabilelor
+      - Tranziție la Starea 2, sincronizat
 
-- ***Scenario 3b***: User Clicks Software Switch to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}:
-      - Update internal state variable to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
-      - Hardware switch position remains unchanged (pointing to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"})
-      - Switch actual circuit connection to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
-      - Transition to State 1, sync
+- ***Scenariul 3b***: Utilizatorul Apasă Comutatorul Software la Gazdă ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}:
+      - Actualizează variabila internă de stare la Gazdă ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
+      - Poziția comutatorului hardware rămâne neschimbată (indicând Ținta ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"})
+      - Comută conexiunea reală a circuitului la Gazdă ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}
+      - Tranziție la Starea 1, sincronizat
 
-### From **State 4** (Out of Sync, USB Connected to Target)
+### Din **Starea 4** (Desincronizat, USB Conectat la Țintă)
 
-- ^^***Scenario 4a***^^: User Moves Hardware Switch to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}:
-      - No changes to variables
-      - Transition to State 1, sync
+- ^^***Scenariul 4a***^^: Utilizatorul Mută Comutatorul Hardware la Gazdă ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"}:
+      - Fără modificări ale variabilelor
+      - Tranziție la Starea 1, sincronizat
 
-- ***Scenario 4b***: User Clicks Software Switch to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}:
-      - Update internal state variable to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
-      - Hardware switch position remains unchanged (pointing to Host ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"})
-      - Switch actual circuit connection to Target ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
-      - Transition to State 2, sync
+- ***Scenariul 4b***: Utilizatorul Apasă Comutatorul Software la Țintă ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}:
+      - Actualizează variabila internă de stare la Țintă ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
+      - Poziția comutatorului hardware rămâne neschimbată (indicând Gazda ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"})
+      - Comută conexiunea reală a circuitului la Țintă ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"}
+      - Tranziție la Starea 2, sincronizat
 
-!!! warning "Remember to eject the flash drive before toggling the switch"
-    If the USB port is being used by a flash drive, ensure you eject the flash drive before toggling the switch to transfer the port's use to another computer.
+!!! avertisment "Amintiți-vă să ejectați unitatea flash înainte de a comuta"
+    Dacă portul USB este utilizat de o unitate flash, asigurați-vă că ejectați unitatea flash înainte de a comuta pentru a transfera utilizarea portului la un alt computer.
 
-!!! warning "USB power limitations"
-    The power supplied by the USB port depends on the Host motherboard. It is not recommended to connect USB devices that require a lot of power. Typically, the power consumption should not exceed 1.5W. Connecting high-power devices may result in unstable operation or potential damage.
+!!! avertisment "Limitări de putere USB"
+    Puterea furnizată de portul USB depinde de placa de bază a gazdei. Nu se recomandă conectarea dispozitivelor USB care necesită multă putere. De obicei, consumul de energie nu ar trebui să depășească 1.5W. Conectarea dispozitivelor de mare putere poate duce la funcționare instabilă sau la posibile daune.
 
-!!! Note "User Guidance"
-    - **Software Switch Priority**: Regardless of the hardware switch position, clicking the software switch will immediately change the circuit direction.
+!!! Notă "Ghid pentru Utilizatori"
+    - **Prioritatea Comutatorului Software**: Indiferent de poziția comutatorului hardware, apăsarea comutatorului software va schimba imediat direcția circuitului.
 
-    - **Hardware Switch Sync**: Any manual toggle of the Hardware Switch will align its state with the Software Switch, transitioning to either State 1 or State 2 from the out-of-sync State 3 or State 4. However, this synchronization does not necessarily alter the actual circuit connection.
+    - **Sincronizarea Comutatorului Hardware**: Orice comutare manuală a comutatorului hardware va alinia starea acestuia cu comutatorul software, trecând fie la Starea 1, fie la Starea 2 din stările desincronizate Starea 3 sau Starea 4. Cu toate acestea, această sincronizare nu modifică neapărat conexiunea reală a circuitului.
 
-    - **Hardware Switch Monitoring**: The Hardware Switch, despite being physical, is monitored by software and does not directly control the circuit direction. Instead, the software interprets the switch position and manages the actual circuit switching.
+    - **Monitorizarea Comutatorului Hardware**: Comutatorul hardware, deși este fizic, este monitorizat de software și nu controlează direct direcția circuitului. În schimb, software-ul interpretează poziția comutatorului și gestionează comutarea reală a circuitului.
 
-## Why Software-Controlled USB Switching Matters
+## De ce Contează Comutarea USB Controlată de Software
 
-The software-controlled USB switching enhancement introduced in v1.9 is a pivotal feature for our future development plans, particularly in supporting KVM-over-IP solutions like VNC (which we have not yet implemented). This capability allows users to remotely toggle and share the USB port between the target and host computers, which is especially crucial for facilitating file transfers in a remote setup.
+Îmbunătățirea comutării USB controlate de software introdusă în versiunea 1.9 este o caracteristică esențială pentru planurile noastre viitoare de dezvoltare, în special în sprijinirea soluțiilor KVM-over-IP, cum ar fi VNC (pe care încă nu le-am implementat). Această capacitate permite utilizatorilor să comute și să partajeze de la distanță portul USB între computerele țintă și gazdă, ceea ce este deosebit de important pentru facilitarea transferurilor de fișiere într-o configurație la distanță.
 
-This feature opens up a world of possibilities for remote management and control. For instance, it enables file transfers between devices without physical intervention, enhancing the efficiency of remote troubleshooting and system management.
+Această caracteristică deschide o lume de posibilități pentru gestionarea și controlul de la distanță. De exemplu, permite transferuri de fișiere între dispozitive fără intervenție fizică, îmbunătățind eficiența depanării și gestionării sistemului de la distanță.
 
-Do you have creative ideas on how to leverage this feature? We'd love to chat with you! Join Openterface [community](/community/) and share your thoughts 😃
+Aveți idei creative despre cum să valorificați această caracteristică? Ne-ar plăcea să discutăm cu voi! Alăturați-vă comunității Openterface [community](/community/) și împărtășiți-vă gândurile 😃

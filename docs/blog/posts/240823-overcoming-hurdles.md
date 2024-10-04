@@ -6,101 +6,101 @@ categories:
   - Updates
 ---
 
-# Overcoming Hurdles: Progress Update & New Timeline
+# Depășirea Obstacolelor: Actualizare Progres și Noua Cronologie
 
-Hey everyone,
+Salutare tuturor,
 
-I hope you’re all doing well. It’s been a while since our last update. I wish I could say everything’s been smooth sailing for Openterface, but we’ve hit a couple of speed bumps that will delay our delivery timeline. While this wasn’t what we expected, we’re tackling these challenges head-on and making steady progress with plenty of good news to share. This post is about **a 7-minute read**, so let’s dive into the details so you know exactly where things stand and what’s coming next.
+Sper că sunteți bine. A trecut ceva timp de la ultima noastră actualizare. Mi-aș fi dorit să vă spun că totul a mers ca pe roate pentru Openterface, dar am întâmpinat câteva obstacole care vor întârzia termenul de livrare. Deși nu ne așteptam la asta, abordăm aceste provocări cu hotărâre și facem progrese constante, având multe vești bune de împărtășit. Această postare durează aproximativ **7 minute de citit**, așa că haideți să intrăm în detalii pentru a ști exact unde ne aflăm și ce urmează.
 
-## Regulation, Production, and Quality
+## Reglementări, Producție și Calitate
 
-Before we could kick off production, we had to pass necessary quality tests according to regulations, particularly CE certification. Since our toolkit version includes not just the Mini-KVM but also several accessories, each part needed to undergo CE testing. These tests took longer than expected (turns out cables can be quite picky), but the great news is that **we’ve passed CE for our Mini-KVM and all its components!** Below is an overview of the certifications for all our parts: Mini-KVM, HDMI cable, orange Type-C cable, black short Type-C cable, and VGA2HDMI cable. With certification in hand, our production timeline is now certain, and our manufacturers are **currently producing all parts** as I speak.
+Înainte de a începe producția, a trebuit să trecem testele de calitate necesare conform reglementărilor, în special certificarea CE. Deoarece versiunea noastră toolkit include nu doar Mini-KVM-ul, ci și mai multe accesorii, fiecare parte a trebuit să treacă testele CE. Aceste teste au durat mai mult decât ne așteptam (se pare că cablurile pot fi destul de pretențioase), dar vestea bună este că **am trecut certificarea CE pentru Mini-KVM-ul nostru și toate componentele sale!** Mai jos este o prezentare generală a certificărilor pentru toate părțile noastre: Mini-KVM, cablu HDMI, cablu Type-C portocaliu, cablu Type-C scurt negru și cablu VGA2HDMI. Cu certificarea în mână, cronologia noastră de producție este acum sigură, iar producătorii noștri **produc în prezent toate părțile** în timp ce vorbesc.
 
 ![240823-0](pic/240823-0.jpg)
-*UKCA and CE requirements are the same for our electronic products, with CE also covering RoHS compliance.*
+*Cerinte UKCA și CE sunt aceleași pentru produsele noastre electronice, cu CE acoperind și conformitatea RoHS.*
 
-Two weeks ago, we visited one of our manufacturers to train their line managers on quality control for the orange cables before they shipped them to us. Now, ALL the orange cables have been produced and are sitting in a corner of our studio.
+Acum două săptămâni, am vizitat unul dintre producătorii noștri pentru a instrui managerii de linie în controlul calității pentru cablurile portocalii înainte de a le expedia către noi. Acum, TOATE cablurile portocalii au fost produse și stau într-un colț al studioului nostru.
 ![240823-1](pic/240823-1.jpg)
-*Kevin and Shawn were explaining the testing methods to ensure the orange cable works properly with our Openterface Mini-KVM.*
+*Kevin și Shawn explicau metodele de testare pentru a se asigura că cablul portocaliu funcționează corect cu Mini-KVM-ul nostru Openterface.*
 
-We will do the same task in this week to train QA at the production frontline for other parts as well. Here are samples of additional cables.
+Vom face aceeași sarcină în această săptămână pentru a instrui echipa de control al calității la linia de producție pentru celelalte părți. Iată mostre de cabluri suplimentare.
 ![240823-2](pic/240823-2.jpg)
-*Proudly marked with our TechxArtisan logo, these are samples of the HDMI cable, the short Type-C cable, and the VGA-to-HDMI cable.*
+*Marcate cu mândrie cu logo-ul nostru TechxArtisan, acestea sunt mostre de cablu HDMI, cablu Type-C scurt și cablu VGA-to-HDMI.*
 
-We’re expecting the other parts and Mini-KVMs to arrive soon from our manufacturers, at which point we’ll double-check the quality of every component and pack them properly at our studio before shipment. In other words, **our team will personally ensure the quality** before it reaches your hands.
+Așteptăm ca celelalte părți și Mini-KVM-urile să sosească în curând de la producătorii noștri, moment în care vom verifica din nou calitatea fiecărei componente și le vom împacheta corespunzător în studioul nostru înainte de expediere. Cu alte cuvinte, **echipa noastră va asigura personal calitatea** înainte de a ajunge în mâinile voastre.
 
-## Shipment, Potential Delays, and New ETA
+## Expediere, Posibile Întârzieri și Noua ETA
 
-**The current uncertainty lies in the shipment process**. After investigating several shipping companies, we found that shipping will take extra time as we will likely transfer parcels through a warehouse before reaching Crowd Supply’s warehouse. We’re still debating whether to choose sea or air freight—please bear with us for a few more days while we sort out the arrangements.
+**Incertitudinea actuală constă în procesul de expediere**. După ce am investigat mai multe companii de transport, am constatat că expedierea va dura mai mult timp, deoarece probabil vom transfera coletele printr-un depozit înainte de a ajunge la depozitul Crowd Supply. Încă dezbatem dacă să alegem transportul maritim sau aerian—vă rugăm să aveți răbdare câteva zile în plus în timp ce stabilim aranjamentele.
 
-Customs clearance is another potential hurdle that might cause unexpected delays. Once our products arrive at Crowd Supply's warehouse in the US, they’ll take one to two weeks to ship out globally based on each order. For backers outside the US, individual parcels will still need to go through global shipping and customs clearance in the destination country.
+Vama este un alt obstacol potențial care ar putea cauza întârzieri neașteptate. Odată ce produsele noastre ajung la depozitul Crowd Supply din SUA, vor dura una până la două săptămâni pentru a fi expediate global în funcție de fiecare comandă. Pentru susținătorii din afara SUA, coletele individuale vor trebui să treacă prin expedierea globală și vama în țara de destinație.
 
-Accounting for the current situation and adding some buffer time, I remain cautiously optimistic that we’ll complete delivery before the end of this year, with **a new ETA of mid-January**. I’m truly sorry for the inconvenience and appreciate your support and patience during this change.
+Ținând cont de situația actuală și adăugând un timp de rezervă, rămân optimist că vom finaliza livrarea înainte de sfârșitul acestui an, cu **o nouă ETA la mijlocul lunii ianuarie**. Îmi pare sincer rău pentru inconvenient și apreciez sprijinul și răbdarea voastră în timpul acestei schimbări.
 
-## Finalised Hardware V1.9
+## Hardware Finalizat V1.9
 
-As you may know from our previous [Reddit post](https://www.reddit.com/r/Openterface_miniKVM/comments/1e25pco/openterface_minikvm_v19_with_pins_for_more/), we decided to **upgrade our hardware to V1.9**, including a set of hackable expansion pins. This wasn’t part of the original plan for the crowdfunding campaign, but we believe it significantly enhances the hardware’s **potential for broader use**.
+După cum știți din postarea noastră anterioară de pe [Reddit](https://www.reddit.com/r/Openterface_miniKVM/comments/1e25pco/openterface_minikvm_v19_with_pins_for_more/), am decis să **actualizăm hardware-ul nostru la V1.9**, incluzând un set de pini de expansiune hackabili. Acest lucru nu făcea parte din planul original pentru campania de crowdfunding, dar credem că îmbunătățește semnificativ **potențialul hardware-ului pentru utilizări mai largi**.
 
 ![240823-3](pic/240823-3.jpg)
-*The VCC, GND, Target D+, Target D-, Host D+, and Host D- pins—where ‘D’ stands for USB data.*
+*Pinii VCC, GND, Target D+, Target D-, Host D+ și Host D-—unde ‘D’ înseamnă date USB.*
 
-One key motivation was to enable **the USB switch to be toggled at the software level**. Why is this important? On our roadmap, we **aim to support a KVM-over-IP solution**, such as VNC, in the future. The idea is to match local KVM control with the VNC protocol, allowing users to remotely control the target computer via the host computer. In such a remote scenario, the ability for users to switch the USB port is essential, especially when file transfers between the host and target are required.
+O motivație cheie a fost să permitem **comutarea USB-ului la nivel de software**. De ce este important acest lucru? Pe foaia noastră de parcurs, **ne propunem să susținem o soluție KVM-over-IP**, cum ar fi VNC, în viitor. Ideea este să potrivim controlul local KVM cu protocolul VNC, permițând utilizatorilor să controleze de la distanță computerul țintă prin computerul gazdă. Într-un astfel de scenariu de la distanță, capacitatea utilizatorilor de a comuta portul USB este esențială, mai ales când sunt necesare transferuri de fișiere între gazdă și țintă.
 
-**The expansion pins also open up possibilities for more**, like integrating with iPadOS, ATX control, network bridging, and audio bypass. While I won’t dive into all the details here, I encourage you to join our Openterface community to discuss with us further.
+**Pinii de expansiune deschid și mai multe posibilități**, cum ar fi integrarea cu iPadOS, controlul ATX, puntea de rețea și bypass-ul audio. Deși nu voi intra în toate detaliile aici, vă încurajez să vă alăturați comunității Openterface pentru a discuta mai departe cu noi.
 
-This hardware upgrade could potentially extend our Openterface solution to operate over IP and include more advanced features while still maintaining its core strength as a plug-and-play KVM-over-USB tool—perfect for IT pros navigating uncertain IT environments, like unfamiliar data centres.
+Această actualizare hardware ar putea extinde potențial soluția noastră Openterface pentru a funcționa prin IP și a include funcții mai avansate, menținând în același timp punctul său forte ca un instrument KVM-over-USB plug-and-play—perfect pentru profesioniștii IT care navighează în medii IT nesigure, cum ar fi centrele de date necunoscute.
 
-I’m happy to report that V1.9 has passed our internal basic tests and will be finalised as the official version for all our backers. However, this hardware upgrade will require further testing, and any development based on these expansion pins will be experimental and likely to have bugs. This is where you can contribute. We’re counting on the open-source community to help us improve Openterface together.
+Sunt fericit să raportez că V1.9 a trecut testele noastre interne de bază și va fi finalizat ca versiunea oficială pentru toți susținătorii noștri. Cu toate acestea, această actualizare hardware va necesita teste suplimentare, iar orice dezvoltare bazată pe acești pini de expansiune va fi experimentală și probabil să aibă erori. Aici puteți contribui. Contăm pe comunitatea open-source pentru a ne ajuta să îmbunătățim Openterface împreună.
 
-## More Software Updates
+## Mai Multe Actualizări Software
 
-On the software front, we’re making exciting strides. We’re diving into the **Openterface Android app** now! Check out this [tweet](https://x.com/TechxArtisan/status/1825460088922071398) for an early demo showing smooth KVM control, mouse movement, and clicks in action. More features are on the way, and as always, once we’ve polished the code a bit more, **this app will also be open-sourced** on our GitHub repo [Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android).
+Pe frontul software, facem progrese interesante. Ne ocupăm acum de **aplicația Openterface pentru Android**! Verificați acest [tweet](https://x.com/TechxArtisan/status/1825460088922071398) pentru o demonstrație timpurie care arată controlul KVM lin, mișcarea mouse-ului și clicurile în acțiune. Mai multe funcții sunt pe drum și, ca întotdeauna, odată ce am finisat puțin codul, **această aplicație va fi și ea open-source** pe repo-ul nostru GitHub [Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android).
 ![240823-4](pic/240823-4.jpg)
-*Using just our fingertips to KVM control a Linux computer from an Android tablet. Nice!*
+*Folosind doar degetele noastre pentru a controla un computer Linux de pe o tabletă Android. Frumos!*
 
-Our QT version just got a handy update—you can now [transfer text from the host to the target](https://x.com/TechxArtisan/status/1825919721960780131)! So now this feature is supported on macOS, Windows, and Linux host apps.
+Versiunea noastră QT tocmai a primit o actualizare utilă—acum puteți [transfera text de la gazdă la țintă](https://x.com/TechxArtisan/status/1825919721960780131)! Deci, acum această funcție este suportată pe aplicațiile gazdă macOS, Windows și Linux.
 
-Moreover, We’re also planning to add a fun feature — [an auto mouse movement to prevent your target computer from sleeping](https://x.com/TechxArtisan/status/1825471186668847241). Should we go with the ping-pong ball bouncing around the screen or the classic DVD screensaver effect? Vote and comment the [tweet](https://x.com/TechxArtisan/status/1825470086800691459) 😃
+În plus, plănuim să adăugăm o funcție distractivă—[o mișcare automată a mouse-ului pentru a preveni adormirea computerului țintă](https://x.com/TechxArtisan/status/1825471186668847241). Ar trebui să mergem cu mingea de ping-pong care sare pe ecran sau cu efectul clasic de screensaver DVD? Votați și comentați pe [tweet](https://x.com/TechxArtisan/status/1825470086800691459) 😃
 
-## Package Design, Labelling, and Manual
+## Designul Pachetului, Etichetare și Manual
 
-We’ve been [experimenting with various mock-ups and packaging designs](https://www.reddit.com/r/Openterface_miniKVM/comments/1elm4vq/almost_ready_to_finalize_our_package_design/) to find the perfect balance among several key factors:
+Am [experimentat cu diverse machete și designuri de ambalaje](https://www.reddit.com/r/Openterface_miniKVM/comments/1elm4vq/almost_ready_to_finalize_our_package_design/) pentru a găsi echilibrul perfect între mai mulți factori cheie:
 
-- Selecting materials sturdy enough to protect the product and its parts during shipment,
-- Creating informative labelling that helps users understand the product at a glance,
-- Ensuring compliance with regulations,
-- Making the packaging visually appealing,
-- And being eco-friendly by minimising plastic use wherever possible.
+- Selectarea materialelor suficient de rezistente pentru a proteja produsul și părțile sale în timpul transportului,
+- Crearea de etichete informative care să ajute utilizatorii să înțeleagă produsul dintr-o privire,
+- Asigurarea conformității cu reglementările,
+- Realizarea unui ambalaj atrăgător din punct de vedere vizual,
+- Și fiind eco-friendly prin minimizarea utilizării plasticului oriunde este posibil.
 
-Additionally, we’ve made several improvements to the old toolkit bag, including:
+În plus, am făcut mai multe îmbunătățiri la vechea geantă toolkit, inclusiv:
 
-- Larger storage space,
-- A stylish orange zipper,
-- Upgraded exterior and interior materials,
-- And a super stretchy mesh pocket.
+- Spațiu de stocare mai mare,
+- Un fermoar portocaliu elegant,
+- Materiale exterioare și interioare îmbunătățite,
+- Și un buzunar din plasă super elastic.
 
-We chose this material because it strikes the ideal balance between being budget-friendly, pleasant to the touch, and durable enough to protect the items inside. **We’re confident you’ll love it**.
+Am ales acest material deoarece atinge echilibrul ideal între a fi prietenos cu bugetul, plăcut la atingere și suficient de durabil pentru a proteja obiectele din interior. **Suntem încrezători că vă va plăcea**.
 
 ![240823-5](pic/240823-5.jpg)
 
-We’re also updating the labels on the aluminium casing to make them as informative and visually appealing as possible. We hope these enhancements will improve your user experience and make it easier to get started with Openterface.
+Actualizăm și etichetele de pe carcasa de aluminiu pentru a le face cât mai informative și atrăgătoare din punct de vedere vizual. Sperăm că aceste îmbunătățiri vor îmbunătăți experiența utilizatorului și vor face mai ușor să începeți cu Openterface.
 
 ![240823-6](pic/240823-6.jpg)
 
-We’re finalising the Openterface manual, which will be available in English, German, French, Japanese, and Chinese. Apologies if we missed your language—our box isn’t TARDIS-sized (Doctor Who’s police box)! But we’ll do our best to add more translations on our website.
+Finalizăm manualul Openterface, care va fi disponibil în engleză, germană, franceză, japoneză și chineză. Ne cerem scuze dacă am omis limba voastră—cutia noastră nu este de dimensiunea TARDIS-ului (cutia polițistului din Doctor Who)! Dar vom face tot posibilul să adăugăm mai multe traduceri pe site-ul nostru.
 
 ![240823-7](pic/240823-7.jpg)
 
-## Community Language Review
+## Revizuirea Limbajului Comunitar
 
-I’ve been using ChatGPT to assist with translations, but it can sometimes miss the mark with phrasing and wording. If it’s not too much trouble, I’d greatly appreciate any help in reviewing the content in other languages, especially for the printed materials we’re about to finalise. I’ve updated all the text content for the packaging in our GitHub folder [product-printed-materials](https://github.com/TechxArtisanStudio/Openterface/tree/main/product-printed-materials), where you can review and submit any improvements. You can also DM me directly. Thanks!
+Am folosit ChatGPT pentru a ajuta la traduceri, dar uneori poate rata formulările și cuvintele. Dacă nu este prea mare deranjul, aș aprecia foarte mult orice ajutor în revizuirea conținutului în alte limbi, în special pentru materialele tipărite pe care urmează să le finalizăm. Am actualizat tot conținutul textului pentru ambalaj în folderul nostru GitHub [product-printed-materials](https://github.com/TechxArtisanStudio/Openterface/tree/main/product-printed-materials), unde puteți revizui și trimite orice îmbunătățiri. Puteți, de asemenea, să-mi trimiteți un mesaj direct. Mulțumesc!
 
-## Final Remarks and Ongoing Progress
+## Observații Finale și Progres Continu
 
-We apologise again for the delays and the change in our product’s ETA. Thank you for your patience and for sticking with us—we’re working hard to get this to you as soon as possible! I’ll update you immediately once our shipment is arranged. More updates are on the way, so please join our Openterface community and stay tuned!
+Ne cerem scuze din nou pentru întârzieri și schimbarea ETA-ului produsului nostru. Vă mulțumim pentru răbdare și pentru că ați rămas alături de noi—lucrăm din greu pentru a vă aduce acest produs cât mai curând posibil! Vă voi actualiza imediat ce aranjăm expedierea. Mai multe actualizări sunt pe drum, așa că vă rugăm să vă alăturați comunității Openterface și să rămâneți la curent!
 
-Cheers,
+Cu drag,
 
 Billy Wang  
 Product Manager  
-Openterface Team | TechxArtisan
+Echipa Openterface | TechxArtisan

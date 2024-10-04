@@ -1,24 +1,24 @@
-# What's In The Box
+# Ce Găsești în Cutie
 
-Explore our two purchase options designed to meet your needs, whether you're looking for the essentials or a complete set of tools.
+Descoperă cele două opțiuni de achiziție create pentru a-ți satisface nevoile, fie că ești în căutarea esențialelor sau a unui set complet de unelte.
 
-## Package 1: Basic Pack
+## Pachet 1: Pachetul de Bază
 
 ![basic-pack](images/product/basic-with-maunal.jpg){:style="width:680px"}
 
-1. Core Product: Openterface Mini-KVM
-2. Quick Start Guide
+1. Produsul Principal: Openterface Mini-KVM
+2. Ghid de Pornire Rapidă
 
-## Package 2: Toolkit Pack
+## Pachet 2: Pachetul Toolkit
 
 ![toolkit-open](images/product/toolkit-open.jpg){:style="width:680px"}
 
-1. Core Product: Openterface Mini-KVM
-2. Quick Start Guide
-3. Toolkit Bag (165 x 110 x 50mm)
-4. Extension Pin Cap
-5. HDMI Male-to-Male Cable (30cm)
-6. Type-C Male to USB-A Male Cable (0.3m) with USB-A Female to USB-C Male Adapter
-7. Type-C Male-to-Male Cable (1.5m) with USB-C Female to USB-A Male Adapte
+1. Produsul Principal: Openterface Mini-KVM
+2. Ghid de Pornire Rapidă
+3. Geantă Toolkit (165 x 110 x 50mm)
+4. Capac de Extensie Pin
+5. Cablu HDMI Bărbat-la-Bărbat (30cm)
+6. Cablu Type-C Bărbat la USB-A Bărbat (0.3m) cu Adaptor USB-A Femelă la USB-C Bărbat
+7. Cablu Type-C Bărbat-la-Bărbat (1.5m) cu Adaptor USB-C Femelă la USB-A Bărbat
 
 ![toolkit-parts-layout-2-numbers](images/product/toolkit-parts-layout-2-numbers.jpg){:style="width:680px"}

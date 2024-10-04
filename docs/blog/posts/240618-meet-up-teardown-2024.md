@@ -6,43 +6,43 @@ categories:
   - Updates
 ---
 
-# Meet Me in Portland This Weekend & Win a Mini-KVM from My Game Challenge!
+# Întâlnește-mă în Portland Weekend-ul Acesta & Câștigă un Mini-KVM din Provocarea Mea de Jocuri!
 
-Hey everyone! We’ve got some fantastic news to share!
+Salutare tuturor! Avem niște vești fantastice de împărtășit!
 
-### Big Thanks!
-First off, I can't [thank you all](https://x.com/TechxArtisan/status/1801850068263178300) enough for your incredible support. Our crowdfunding campaign has absolutely smashed its goals on Jun 14, hitting **$248k** with the amazing support from over **1110 backers** and **Crowd Supply**.
+### Mulțumiri Mari!
+În primul rând, nu pot [să vă mulțumesc](https://x.com/TechxArtisan/status/1801850068263178300) suficient pentru sprijinul vostru incredibil. Campania noastră de crowdfunding a depășit absolut toate obiectivele pe 14 iunie, atingând **248.000 USD** cu sprijinul uimitor a peste **1110 susținători** și **Crowd Supply**.
 
 ![crowdfunding_end_240614](https://www.crowdsupply.com/img/b812/9768a2ad-1b78-45dd-966c-942c170fb812/crowdfunding-end-240614_jpg_md-xl.jpg)
 
-This success has given us the chance to make the Mini-KVM even better! We couldn’t have done it without you—seriously, thank you from the bottom of our hearts! 🧡 We'll be working full throttle in production to ensure delivery to your hands soon!
+Acest succes ne-a oferit șansa de a face Mini-KVM și mai bun! Nu am fi reușit fără voi—serios, vă mulțumim din suflet! 🧡 Vom lucra la capacitate maximă în producție pentru a ne asigura că ajunge la voi cât mai curând!
 
-### Fun Bet & My Flight to Portland!
-So, here’s a fun story: As I mentioned in [this post](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/last-hours-to-back-and-mini-kvms-at-tech-frontlines), Kevin and I made a bet. If we could get 100 new backers in the final 36 hours, I would **fly to the US** for [Crowd Supply's Teardown 2024](https://www.crowdsupply.com/teardown/portland-2024). Well, guess what? We didn’t just hit 100—we got 165 new backers! So, I’m super excited to announce that I’ll be attending Teardown 2024 in person on this Friday (June 21) and weekend.
+### Pariu Amuzant & Zborul Meu către Portland!
+Deci, iată o poveste amuzantă: Așa cum am menționat în [această postare](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm/updates/last-hours-to-back-and-mini-kvms-at-tech-frontlines), Kevin și cu mine am făcut un pariu. Dacă am putea obține 100 de susținători noi în ultimele 36 de ore, aș **zbura în SUA** pentru [Teardown 2024 de la Crowd Supply](https://www.crowdsupply.com/teardown/portland-2024). Ei bine, ghici ce? Nu doar că am atins 100—am obținut 165 de susținători noi! Așa că sunt super încântat să anunț că voi participa la Teardown 2024 în persoană vineri (21 iunie) și în weekend.
 
-### My Demo Table & Livestream
-Teardown is Crowd Supply’s annual flagship event centered around all things hardware - featuring talks, demos, workshops, and more.
+### Masa Mea de Demonstrații & Livestream
+Teardown este evenimentul anual de referință al Crowd Supply, centrat pe tot ce înseamnă hardware - cuprinzând prezentări, demonstrații, ateliere și multe altele.
 
-Teardown 2024 Lloyd Center Mall Portland, Oregon June 21-23, 2024
+Teardown 2024 Lloyd Center Mall Portland, Oregon 21-23 iunie 2024
 
 ![teardown-poster](https://www.crowdsupply.com/img/25ea/1d486985-1024-45ca-8b7d-0bdc388e25ea/twitter-1600-1900-td2024-wires_jpg_md-xl.jpg)
 
-I'll have a demo table at the Teardown Event: [Check it out here!](https://www.crowdsupply.com/teardown/portland-2024/demo/openterface-mini-kvm-turn-your-laptop-as-a-kvm-console)
+Voi avea o masă de demonstrații la evenimentul Teardown: [Verifică aici!](https://www.crowdsupply.com/teardown/portland-2024/demo/openterface-mini-kvm-turn-your-laptop-as-a-kvm-console)
 
-Any chance you're near the Portland area? It'd be fantastic to meet you at the event! Buy the [Teardown ticket](https://www.crowdsupply.com/teardown/portland-2024) now and hope to see you there—**come by and say hi**!
+Ești cumva prin zona Portland? Ar fi fantastic să te întâlnesc la eveniment! Cumpără [biletul pentru Teardown](https://www.crowdsupply.com/teardown/portland-2024) acum și sper să te văd acolo—**treci pe la mine și salută-mă**!
 
-If you can’t make it to the event, don’t worry. You can always find me on our Discord and Subreddit during the conference. You can text or talk to me in real time, as I may be live-streaming all three days while I'm at the demo table, so join our community now and you won’t miss a thing.
+Dacă nu poți ajunge la eveniment, nu-ți face griji. Mă poți găsi întotdeauna pe Discord-ul și Subreddit-ul nostru în timpul conferinței. Poți să-mi trimiți mesaje sau să vorbești cu mine în timp real, deoarece s-ar putea să transmit live toate cele trei zile cât sunt la masa de demonstrații, așa că alătură-te comunității noastre acum și nu vei rata nimic.
 
-### Game Challenge at Teardown
-Now, for a bit of fun: I’m setting up **a video game competition** at Teardown 2024. I’ll be demoing how our Mini-KVM works with the portable computer, uConsole, which is basically a Raspberry Pi. Check out my X tweet [here](https://x.com/TechxArtisan/status/1802675690015424962) to see how I’ll set it up with the Mini-KVM.
+### Provocarea de Jocuri la Teardown
+Acum, pentru un pic de distracție: Voi organiza **o competiție de jocuri video** la Teardown 2024. Voi demonstra cum funcționează Mini-KVM-ul nostru cu computerul portabil, uConsole, care este practic un Raspberry Pi. Verifică tweet-ul meu pe X [aici](https://x.com/TechxArtisan/status/1802675690015424962) pentru a vedea cum îl voi configura cu Mini-KVM.
 
 ![play-game-uconsole](https://www.crowdsupply.com/img/c4d2/d5fe66f3-4f3e-4398-bd11-494ae317c4d2/play-game-uconsole_png_md-xl.jpg)
 
-I'm thinking of using games like Pac-Man, The King of Fighters '97, and Tetris for the game challenge. And here’s the kicker—winners can snag a Mini-KVM from me right there! So, come and play a game with me to win!
+Mă gândesc să folosesc jocuri precum Pac-Man, The King of Fighters '97 și Tetris pentru provocarea de jocuri. Și iată partea cea mai tare—câștigătorii pot câștiga un Mini-KVM de la mine chiar acolo! Așa că, vino și joacă un joc cu mine pentru a câștiga!
 
-### More to Come
-As always, we’re cooking up some exciting things, and I will have a super exciting announcement at Teardown! So stay tuned for more updates. I can’t wait to see you at Teardown 2024!
+### Mai Multe de Urmat
+Ca întotdeauna, pregătim lucruri interesante și voi avea un anunț super interesant la Teardown! Așa că rămâi pe fază pentru mai multe actualizări. Abia aștept să te văd la Teardown 2024!
 
-Cheers,  
-Billy Wang
-Openterface Team | TechxArtisan Studio
+Cu drag,  
+Billy Wang  
+Echipa Openterface | TechxArtisan Studio

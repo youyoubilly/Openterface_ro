@@ -1,91 +1,91 @@
-# Accessories
+# Accesorii
 
-Here, you'll find various products that complement and enhance the functionality of the Openterface Mini-KVM. We aim to provide a range of accessories that make your experience with our Mini-KVM even more versatile and convenient.
+Aici veți găsi diverse produse care completează și îmbunătățesc funcționalitatea Openterface Mini-KVM. Ne propunem să oferim o gamă de accesorii care să facă experiența cu Mini-KVM-ul nostru și mai versatilă și convenabilă.
 
-## VGA to HDMI Converter Cable
+## Cablu Convertor VGA la HDMI
 
 ![CABLE100-VGA2HDMI](images/product/part/CABLE100-VGA2HDMI-1.jpg){:style="height:360px"}
 
-This product converts VGA video and integrates audio into HDMI, enabling easy connection of VGA devices to HDMI displays.
+Acest produs convertește semnalul video VGA și integrează audio în HDMI, permițând conectarea ușoară a dispozitivelor VGA la ecrane HDMI.
 
 - **Model**: CABLE100-VGA2HDMI
-- **Length**: 1M
-- **Output Video Resolution**: 1920x1080P Full HD
-- **Input Audio**: 3.5mm audio jack
-- **Audio Out**: via HDMI
-- **Power Supply**: Powered via USB
+- **Lungime**: 1M
+- **Rezoluție Video de Ieșire**: 1920x1080P Full HD
+- **Intrare Audio**: Jack audio de 3.5mm
+- **Ieșire Audio**: prin HDMI
+- **Alimentare**: Alimentat prin USB
 
-### Use Case
-For a detailed use case of this cable, please visit [Streamlined Server Management](/use-cases/#streamlined-server-management).
+### Caz de Utilizare
+Pentru un caz de utilizare detaliat al acestui cablu, vizitați [Gestionarea Serverelor Simplificată](/use-cases/#streamlined-server-management).
 
-### Demo Video
-Watch the demo video by Tech influencer **Cameron Gray** on how to use this cable with the Mini-KVM: [This USB KVM Console is Awesome!](https://youtu.be/xAEQpWyfY-c?si=auB5NtqHVw2C7iIK&t=1693)
+### Video Demonstrativ
+Urmăriți video-ul demonstrativ realizat de influencerul tech **Cameron Gray** despre cum să folosiți acest cablu cu Mini-KVM-ul: [Această Consolă USB KVM este Minunată!](https://youtu.be/xAEQpWyfY-c?si=auB5NtqHVw2C7iIK&t=1693)
 
-<button class="md-button" onclick="window.location.href='https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products'">Place Order</button>
+<button class="md-button" onclick="window.location.href='https://www.crowdsupply.com/techxartisan/openterface-mini-kvm#products'">Plasează Comandă</button>
 
 ---
 
-## Type-C to USB-A Cable with Adapter
+## Cablu Type-C la USB-A cu Adaptor
 
 ![C2A-30-Cable](images/product/part/OP-04-CABLE30-C2A.jpg){:style="height:360px"}
 
-This versatile Type-C Male to USB-A Male cable, paired with a USB-A Female to USB-C Male adapter, offers flexible connectivity to target devices. It allows for data transfer and transmission of keyboard and mouse control signals, regardless of whether the target device uses a USB-A or Type-C port.
+Acest cablu versatil Type-C Male la USB-A Male, împreună cu un adaptor USB-A Female la USB-C Male, oferă conectivitate flexibilă la dispozitivele țintă. Permite transferul de date și transmiterea semnalelor de control pentru tastatură și mouse, indiferent dacă dispozitivul țintă folosește un port USB-A sau Type-C.
 
-- **Length**: 0.3m
-- **Colour**: Black
-- **Adapter**: USB-A Female to USB-C Male
-- **Use**: Facilitates easy control and data transfer to the target device.
+- **Lungime**: 0.3m
+- **Culoare**: Negru
+- **Adaptor**: USB-A Female la USB-C Male
+- **Utilizare**: Facilitează controlul și transferul de date către dispozitivul țintă.
 
 ---
 
-## Type-C to Type-C Cable with Adapter
+## Cablu Type-C la Type-C cu Adaptor
 
 ![C2C-150-Cable](images/product/part/OP-05-CABLE150-C2C.jpg){:style="height:360px"}
 
-This stylish and soft-feel Type-C Male-to-Male cable in vibrant orange is designed for host computer connections. It comes with a USB-C Female to USB-A Male adapter for enhanced compatibility, ensuring you can connect to host computers using either Type-C or USB-A ports. Additionally, this cable supports **240W fast charging** (Voltage DC50V, Current 5A, Power 240W), making it perfect not only for our Mini-KVMs but also for charging your mobile phone or laptop.
+Acest cablu Type-C Male la Male, cu un design elegant și o textură plăcută, de culoare portocalie vibrantă, este destinat conexiunilor cu computerul gazdă. Vine cu un adaptor USB-C Female la USB-A Male pentru o compatibilitate sporită, asigurându-vă că puteți conecta la computere gazdă folosind fie porturi Type-C, fie USB-A. În plus, acest cablu suportă încărcare rapidă de **240W** (Tensiune DC50V, Curent 5A, Putere 240W), fiind perfect nu doar pentru Mini-KVM-urile noastre, ci și pentru încărcarea telefonului mobil sau a laptopului.
 
-- **Length**: 1.5m
-- **Colour**: Orange
-- **Adapter**: USB-C Female to USB-A Male
-- **Use**: For high-speed data transfer between the host computer and the Mini-KVM, and for fast charging mobile phones or laptops.
+- **Lungime**: 1.5m
+- **Culoare**: Portocaliu
+- **Adaptor**: USB-C Female la USB-A Male
+- **Utilizare**: Pentru transfer de date de mare viteză între computerul gazdă și Mini-KVM, și pentru încărcare rapidă a telefoanelor mobile sau laptopurilor.
 
 ---
 
-## HDMI Male-to-Male Cable
+## Cablu HDMI Male la Male
 
 ![HDMI-Cable](images/product/part/OP-03-CABLE30-HDMI.jpg){:style="height:360px"}
 
-This compact HDMI cable is perfect for connecting your target device to capture video output, ensuring seamless integration with your Openterface Mini-KVM.
+Acest cablu HDMI compact este perfect pentru conectarea dispozitivului țintă pentru a captura ieșirea video, asigurând o integrare perfectă cu Openterface Mini-KVM.
 
-- **Length**: 0.3m
-- **Colour**: Black
-- **Use**: Ideal for high-definition video transmission from the target device to the Mini-KVM.
+- **Lungime**: 0.3m
+- **Culoare**: Negru
+- **Utilizare**: Ideal pentru transmiterea video de înaltă definiție de la dispozitivul țintă la Mini-KVM.
 
 ---
 
-## Openterface Toolkit Bag
+## Geantă pentru Trusa Openterface
 
 ![Toolkit-bag](images/product/part/OP-06-BAG-TOOLKIT.jpg){:style="height:360px"}
 
-Keep your Openterface Mini-KVM and its accessories organised and portable with this compact toolkit bag. Featuring a stylish orange zipper and stretchy mesh pockets, this bag ensures excellent cable management and ease of transport, perfect for IT professionals on the go.
+Păstrați Mini-KVM-ul Openterface și accesoriile sale organizate și portabile cu această geantă compactă pentru trusă. Cu un fermoar portocaliu stilat și buzunare din plasă elastică, această geantă asigură o gestionare excelentă a cablurilor și ușurință în transport, perfectă pentru profesioniștii IT în mișcare.
 
-- **Dimensions**: 180 x 115 x 50mm
-- **Colour**: Black with orange zipper
-- **Use**: Ideal for storing and organising your Mini-KVM and its cables.
+- **Dimensiuni**: 180 x 115 x 50mm
+- **Culoare**: Negru cu fermoar portocaliu
+- **Utilizare**: Ideală pentru depozitarea și organizarea Mini-KVM-ului și a cablurilor sale.
 
 ---
 
-## Extension Pin Cap
+## Capac pentru Pini de Extensie
 
 ![pin-cap](images/product/part/pin-cap.jpg){:style="height:360px"}
 
-This 3D-printed Extension Pin Cap replaces the original cap on the Openterface Mini-KVM, allowing advanced users to expose and access extension pins for custom development. You can download the 3D model files from our GitHub repository and print the cap yourself.
+Acest capac pentru pini de extensie, imprimat 3D, înlocuiește capacul original de pe Mini-KVM-ul Openterface, permițând utilizatorilor avansați să expună și să acceseze pinii de extensie pentru dezvoltare personalizată. Puteți descărca fișierele modelului 3D din depozitul nostru GitHub și să imprimați singuri capacul.
 
-- **Use**: Provides access to extension pins for advanced hardware development.
-- **Download**: [3D Model Files](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware/tree/main/models)
+- **Utilizare**: Oferă acces la pinii de extensie pentru dezvoltare hardware avansată.
+- **Descărcare**: [Fișiere Model 3D](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware/tree/main/models)
 
 ---
 
-## More Coming Soon
+## Mai Multe în Curând
 
-Stay tuned for more accessories that will be added to this section, designed to enhance your Openterface Mini-KVM experience.
+Rămâneți aproape pentru mai multe accesorii care vor fi adăugate în această secțiune, concepute pentru a îmbunătăți experiența cu Mini-KVM-ul Openterface.

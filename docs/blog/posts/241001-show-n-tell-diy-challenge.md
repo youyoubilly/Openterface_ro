@@ -6,9 +6,9 @@ categories:
   - Updates
 ---
 
-# Up for a DIY Challenge? Catch us at OSHWA’s Show & Tell!
+# Ești pregătit pentru o provocare DIY? Vino la Show & Tell-ul OSHWA!
 
 ![poster-1](pic/241001-1.jpeg){:style="width:380px"}
 ![poster-2](pic/241001-2.jpg){:style="width:380px"}
 
-Hi folks, I’ll be introducing the USB KVM DIY Challenge 2024 during OSHWA’s Show & Tell at 10:40 PM EST on Oct. 2. If you're interested, don’t forget to join in! Thx!
+Salutare tuturor, voi prezenta Provocarea DIY USB KVM 2024 în cadrul Show & Tell al OSHWA la ora 22:40 EST pe 2 octombrie. Dacă sunteți interesați, nu uitați să participați! Mulțumesc!

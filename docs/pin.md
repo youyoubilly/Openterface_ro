@@ -1,39 +1,39 @@
-# Extension Pins Guideline
+# Ghid pentru Pinii de Extensie
 
 ![change-cap](images/product/change-cap.svg#only-light){:style="height:300px"}
 ![change-cap](images/product/change-cap_1.svg#only-dark){:style="height:300px"}
 
-The Openterface Mini-KVM features extension pins for advanced development and [Open Software](/app) experimentation. These pins are not exposed in the standard case configuration.
+Openterface Mini-KVM include pini de extensie pentru dezvoltare avansată și experimente cu [Software Deschis](/app). Acești pini nu sunt expuși în configurația standard a carcasei.
 
-### Accessing Extension Pins for Development
+### Accesarea Pinilor de Extensie pentru Dezvoltare
 
-To access the extension pins:
+Pentru a accesa pinii de extensie:
 
-1. Disassemble the device
-2. Replace the original case cover with a specialized Extension Pin Cap
-3. Download the 3D model for the Extension Pin Cap from our [GitHub repository](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware)
+1. Dezasamblați dispozitivul
+2. Înlocuiți capacul original al carcasei cu un capac special pentru pini de extensie
+3. Descărcați modelul 3D pentru capacul pinilor de extensie din [repositorul nostru GitHub](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware)
 
-!!! warning "Warranty Void"
-    Removing the original case voids the product warranty. All modifications or disassembly are undertaken at the user's own risk.
+!!! warning "Anulare Garanție"
+    Îndepărtarea carcasei originale anulează garanția produsului. Toate modificările sau dezasamblările sunt realizate pe riscul utilizatorului.
 
-!!! note "Experimental Features"
-    Features developed using these pins are experimental and have not been fully tested. Openterface is not liable for any damage, injury, or malfunction resulting from modifications, exposure of the extension pins, or other alterations to the device.
+!!! note "Funcții Experimentale"
+    Funcțiile dezvoltate folosind acești pini sunt experimentale și nu au fost complet testate. Openterface nu este responsabil pentru eventualele daune, răniri sau defecțiuni rezultate din modificări, expunerea pinilor de extensie sau alte alterări ale dispozitivului.
 
-### Pin Layout
+### Configurația Pinilor
 
 ![target-side](images/product/extension-pins-1.svg#only-light){:style="height:200px"}
 ![host-side](images/product/extension-pins-2.svg#only-light){:style="height:200px"}
 ![target-side](images/product/extension-pins-1_1.svg#only-dark){:style="height:200px"}
 ![host-side](images/product/extension-pins-2_1.svg#only-dark){:style="height:200px"}
 
-The extension pins provide the following connections:
+Pinii de extensie oferă următoarele conexiuni:
 
-1. USB 5V Power supply for external components
-2. Data positive to the USB hub of the host
-3. Data negative to the USB hub of the host
-4. Data positive to the USB hub of the target
-5. Data negative to the USB hub of the target
-6. Ground
+1. Alimentare USB 5V pentru componente externe
+2. Date pozitive către hub-ul USB al gazdei
+3. Date negative către hub-ul USB al gazdei
+4. Date pozitive către hub-ul USB al țintei
+5. Date negative către hub-ul USB al țintei
+6. Împământare
 
-!!! danger "Incorrect Connections"
-    Mixing up VCC and GND can cause severe damage to the device and connected components. Always double-check pin connections before powering the device.
+!!! danger "Conexiuni Incorecte"
+    Inversarea VCC și GND poate provoca daune severe dispozitivului și componentelor conectate. Verificați întotdeauna conexiunile pinilor înainte de a alimenta dispozitivul.

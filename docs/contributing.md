@@ -1,88 +1,90 @@
-# Contributing
+# Contribuie
 
-Hey there! So, you're interested in getting involved with Openterface mini-KVM's [community](/community) and contributing? Awesome! 🧡
+Salut! Ești interesat să te implici în comunitatea Openterface mini-KVM și să contribui? Minunat! 🧡
 
-## Spreading the Word 📢
+## Răspândește Vestea 📢
 
-If you've found our Openterface gadget being handy and boosting your workflow, how about helping to spread the word? Sharing your story of how you use the mini-KVM in daily tasks by pictures or videos will be super appreciated! Whether it's a quick fix event, a cool setup or a unique integration into your workflow, we want to see it all! You could even write a post to share in our vibrant community on our subreddit at [/r/Openterface_miniKVM/](/reddit) or our Discord Server [TechxArtisan](/discord). Let's create some buzz together! 🚀 Cheers!
+Dacă ai descoperit că gadgetul nostru Openterface îți este de folos și îți îmbunătățește fluxul de lucru, ce-ar fi să ne ajuți să răspândim vestea? Împărtășește povestea ta despre cum folosești mini-KVM-ul în activitățile zilnice prin poze sau videoclipuri! Fie că este vorba de o reparație rapidă, un setup cool sau o integrare unică în fluxul tău de lucru, vrem să vedem totul! Poți chiar să scrii un post și să-l împărtășești în comunitatea noastră vibrantă pe subreddit-ul nostru la [/r/Openterface_miniKVM/](/reddit) sau pe serverul nostru de Discord [TechxArtisan](/discord). Hai să creăm împreună un val de entuziasm! 🚀 Mulțumim!
 
-## How You Can Contribute 🌟
+## Cum Poți Contribui 🌟
 
-We're all about keeping this project fresh and funky for our diverse gang of users. We're constantly jazzing things up and fixing bugs to keep the party going!
+Ne dorim să menținem acest proiect proaspăt și interesant pentru utilizatorii noștri diverși. Îmbunătățim constant și reparăm bug-uri pentru a menține totul în mișcare!
 
-Your time is precious, we get it, and diving into bug reports and change requests can feel like wading through treacle. That's why we've rolled up our sleeves and fine-tuned our issue templates and guidelines to make it easier. Yep, we've sweated the small stuff to make sure our issue tracker of its [softwares](/quick-start/#install-host-application) and [hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware) and [discussion board](https://github.com/TechxArtisanStudio/Openterface/discussions) run like a well-oiled machine.
+Știm că timpul tău este prețios și că raportarea bug-urilor și cererilor de schimbare poate fi o provocare. De aceea, am optimizat șabloanele și ghidurile noastre pentru probleme, pentru a face totul mai ușor. Am muncit din greu pentru ca tracker-ul nostru de probleme pentru [software](/quick-start/#install-host-application) și [hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware) și [panoul de discuții](https://github.com/TechxArtisanStudio/Openterface/discussions) să funcționeze perfect.
 
-Ready to dive in? Let's get started! 🏊‍♂️
+Ești gata să te implici? Să începem! 🏊‍♂️
 
-## Reporting A Bug 🐛
+## Raportarea unui Bug 🐛
 
-Encountered a bug? No worries, it happens! Since we're still in the early stages of development, bugs are to be expected, especially in the following softwares. When you come across one, please check if it falls into these [basic operation tests](/basic). The more details you provide about the conditions when the bug occurred, the better equipped we'll be to address it. Please report any bugs you encounter to the corresponding Github repositories.
+Ai întâlnit un bug? Nu-ți face griji, se întâmplă! Deoarece suntem încă în stadiile incipiente de dezvoltare, bug-urile sunt de așteptat, mai ales în următoarele software-uri. Când întâlnești unul, te rugăm să verifici dacă se încadrează în aceste [teste de operare de bază](/basic). Cu cât oferi mai multe detalii despre condițiile în care a apărut bug-ul, cu atât vom fi mai bine echipați să-l rezolvăm. Te rugăm să raportezi orice bug-uri întâlnite în depozitele corespunzătoare de pe Github.
 
-- Navigate to: 
-    - [Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS) (Work-in-progress): Host Applications for MacOS Support
-    - [Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT) (Work-in-progress): Host Applications for Win & Linux Support
-    - [Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware
-    ) (Work-in-progress): Schematics & Components
+- Navighează la:
+    - [Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS) (În lucru): Aplicații pentru gazdă pentru suport MacOS
+    - [Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT) (În lucru): Aplicații pentru gazdă pentru suport Win & Linux
+    - [Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware) (În lucru): Scheme și componente
 
-- When reporting a bug, please:
-    - Specify the app version.
-    - Describe the environment of both the host computer and the target device.
-    - Provide detailed steps to reproduce the issue.
-    - Explain the expected outcome and the actual outcome.
-    - Including screenshots or video snippets would be highly appreciated! 📸🎥
+- Când raportezi un bug, te rugăm:
+    - Specifică versiunea aplicației.
+    - Descrie mediul atât al computerului gazdă, cât și al dispozitivului țintă.
+    - Oferă pași detaliați pentru a reproduce problema.
+    - Explică rezultatul așteptat și rezultatul real.
+    - Includerea de capturi de ecran sau fragmente video ar fi foarte apreciată! 📸🎥
 
-Moreover, you can also join the Development channel **#openterface-dev** on [our Discord server](/discord), or you may try searching for 'TechxArtisan'.
+De asemenea, poți să te alături canalului de dezvoltare **#openterface-dev** pe [serverul nostru de Discord](/discord), sau poți căuta 'TechxArtisan'.
 
-Feel free to bring up any issues. It’s a great place for all beta testers to discuss and share, which could really help us enhance the product.
+Simte-te liber să aduci în discuție orice probleme. Este un loc excelent pentru toți beta testerii să discute și să împărtășească, ceea ce ne-ar putea ajuta cu adevărat să îmbunătățim produsul.
 
-## Fixing A Bug 🛠️
-If you have coding skills and experience, consider diving into our repo to identify, fork, fix, and submit pull requests.
+## Repararea unui Bug 🛠️
 
-## Reporting A Docs Issue 📝
+Dacă ai abilități de programare și experiență, ia în considerare să te implici în repo-ul nostru pentru a identifica, forka, repara și trimite pull request-uri.
 
-If you notice anything that seems off or outdated, we'd love your help to make it better.
+## Raportarea unei Probleme în Documentație 📝
 
-Here's how you can help:
+Dacă observi ceva ce pare greșit sau depășit, ne-ar plăcea ajutorul tău pentru a îmbunătăți.
 
-- Spot the Problem: If you see something that doesn't quite look right in our docs, let us know!
-- Provide Details: Let us know what's amiss. Whether it's a typo, outdated information, or a confusing explanation, every detail helps.
-- Suggest Improvements: If you've got ideas on how to make things better, don't hold back! Your insights are invaluable in enhancing the user experience.
-- How to Report: Simply head over to our corresponding GitHub repository and create an issue detailing the problem. Include as much information as possible to help us understand and address the issue swiftly.
+Iată cum poți ajuta:
 
-Your contributions to improving our documentation are truly appreciated. Together, we can ensure users have access to the best possible resources.
+- Identifică Problema: Dacă vezi ceva ce nu pare corect în documentația noastră, anunță-ne!
+- Oferă Detalii: Spune-ne ce este în neregulă. Fie că este vorba de o greșeală de tipar, informații depășite sau o explicație confuză, fiecare detaliu ajută.
+- Sugerează Îmbunătățiri: Dacă ai idei despre cum să facem lucrurile mai bune, nu te reține! Ideile tale sunt neprețuite în îmbunătățirea experienței utilizatorilor.
+- Cum să Raportezi: Pur și simplu accesează depozitul nostru corespunzător de pe GitHub și creează o problemă detaliind problema. Include cât mai multe informații pentru a ne ajuta să înțelegem și să rezolvăm problema rapid.
 
-## Help Translate Our Docs 🌍
+Contribuțiile tale la îmbunătățirea documentației noastre sunt cu adevărat apreciate. Împreună, putem asigura utilizatorilor accesul la cele mai bune resurse posibile.
 
-We believe everyone should have access to our solution, no matter what language they speak. That's why we're calling on bilingual superstars like you to help translate our website and documentation into different languages.
+## Ajută-ne să Traducem Documentația 🌍
 
-If you're fluent in multiple languages and passionate about making technology accessible to people worldwide, we'd love your help!
+Credem că toată lumea ar trebui să aibă acces la soluția noastră, indiferent de limba pe care o vorbesc. De aceea, apelăm la supereroii bilingvi ca tine pentru a ne ajuta să traducem site-ul și documentația în diferite limbi.
 
-Reach out to us to find out how you can become a language ambassador for Openterface Mini-KVM and help us reach even more people with our solution.
+Dacă ești fluent în mai multe limbi și pasionat de a face tehnologia accesibilă pentru oameni din întreaga lume, ne-ar plăcea ajutorul tău!
 
-## Help Improve Design 🎨
-First impressions matter, and the visual appeal of our product plays a crucial role in capturing users' attention and enhancing their overall experience. If you've got an eye for design and a knack for creating stunning visuals, we'd love your help in sprucing up our product graphics.
+Contactează-ne pentru a afla cum poți deveni un ambasador al limbii pentru Openterface Mini-KVM și ajută-ne să ajungem la și mai mulți oameni cu soluția noastră.
 
-Whether it's crafting eye-catching logos, designing sleek user interfaces for our host applications, creating engaging marketing materials, 3D Design for various cool casings, your creative touch can take our product aesthetics to the next level.
+## Ajută-ne să Îmbunătățim Designul 🎨
 
-If you're up for the challenge and eager to make a visual impact, get in touch with us to explore how you can lend your design expertise to elevate our product's appeal!
+Primele impresii contează, iar atractivitatea vizuală a produsului nostru joacă un rol crucial în captarea atenției utilizatorilor și îmbunătățirea experienței lor generale. Dacă ai un ochi pentru design și talent pentru a crea vizuale uimitoare, ne-ar plăcea ajutorul tău în îmbunătățirea graficii produsului nostru.
 
-## Help Mod Our Community 🤝
+Fie că este vorba de crearea de logo-uri atrăgătoare, designul unor interfețe de utilizator elegante pentru aplicațiile noastre gazdă, crearea de materiale de marketing captivante, design 3D pentru diverse carcase cool, atingerea ta creativă poate duce estetica produsului nostru la nivelul următor.
 
-Our community is like a big, friendly family, and we're looking for awesome folks like you to help keep it that way! If you're keen on keeping the peace and spreading good vibes, we'd love to have you as a moderator.
+Dacă ești pregătit pentru provocare și dornic să faci un impact vizual, contactează-ne pentru a explora cum poți contribui cu expertiza ta de design pentru a ridica atractivitatea produsului nostru!
 
-As a moderator, you'll:
+## Ajută-ne să Moderăm Comunitatea 🤝
 
-- Keep conversations positive and help sort out any squabbles.
-- Make sure everyone follows the rules so our community stays safe and welcoming.
-- Give a hand to users with questions and encourage folks to share their knowledge.
+Comunitatea noastră este ca o mare familie prietenoasă, și căutăm oameni minunați ca tine pentru a ne ajuta să o menținem așa! Dacă ești dornic să menții pacea și să răspândești vibrații pozitive, ne-ar plăcea să te avem ca moderator.
 
-Sound like your cup of tea? Get in touch, and let's chat about how you can join our mod squad!
+Ca moderator, vei:
 
-## And More Help 🚀
-Feeling inspired to contribute but don't quite fit into the categories above? No worries – there are plenty of other ways you can lend a helping hand!
+- Menține conversațiile pozitive și vei ajuta la rezolvarea oricăror conflicte.
+- Asigura că toată lumea respectă regulile pentru ca comunitatea noastră să rămână sigură și primitoare.
+- Oferi ajutor utilizatorilor cu întrebări și încuraja oamenii să-și împărtășească cunoștințele.
 
-Whether it's testing new features, providing feedback on user experience, or brainstorming innovative ideas, your input is invaluable in driving the success of Openterface Mini-KVM.
+Sună ca ceva ce ți-ar plăcea? Contactează-ne și hai să discutăm despre cum poți să te alături echipei noastre de moderatori!
 
-Reach out to us via [email](mailto:info@techxartisan.com) and let us know how you'd like to get involved. Together, we can make Openterface Mini-KVM the best it can be!
+## Și Mai Mult Ajutor 🚀
 
-Your support and contributions are what make Openterface Mini-KVM thrive. Thank you for being part of our journey towards excellence! 🚀
+Te simți inspirat să contribui, dar nu te încadrezi în categoriile de mai sus? Nicio problemă – există multe alte moduri în care poți să dai o mână de ajutor!
+
+Fie că este vorba de testarea noilor funcționalități, oferirea de feedback despre experiența utilizatorului sau brainstorming de idei inovatoare, contribuția ta este neprețuită în succesul Openterface Mini-KVM.
+
+Contactează-ne prin [email](mailto:info@techxartisan.com) și spune-ne cum ai dori să te implici. Împreună, putem face Openterface Mini-KVM cel mai bun posibil!
+
+Sprijinul și contribuțiile tale sunt ceea ce fac ca Openterface Mini-KVM să prospere. Mulțumim că faci parte din călătoria noastră spre excelență! 🚀

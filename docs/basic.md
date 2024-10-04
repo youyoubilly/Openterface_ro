@@ -1,51 +1,51 @@
-# Basic Control
+# Control de Bază
 
 ![use-case-pc-angled-view](images/product/use-case-pc-angled-view.jpg)
 
-## 💻 Compatibility
+## 💻 Compatibilitate
 
-- **Host Software**: Install our [host app](/app) for macOS, Windows, and Linux to control your target devices. Ensure your host system is compatible with the corresponding app version.
-- **Target Device Compatibility**: No pre-installation or configuration is required on the target device. As long as the target device supports UI operations with video output (e.g., HDMI, VGA) and has a USB port to receive emulated keyboard and mouse control (HID) signals, it can be used. Supported target platforms include Windows, macOS, Linux, Android, and iOS.
+- **Software Gazdă**: Instalează aplicația noastră [host app](/app) pentru macOS, Windows și Linux pentru a controla dispozitivele țintă. Asigură-te că sistemul gazdă este compatibil cu versiunea corespunzătoare a aplicației.
+- **Compatibilitate Dispozitiv Țintă**: Nu este necesară pre-instalarea sau configurarea pe dispozitivul țintă. Atâta timp cât dispozitivul țintă suportă operațiuni UI cu ieșire video (de exemplu, HDMI, VGA) și are un port USB pentru a primi semnale emulate de control tastatură și mouse (HID), poate fi utilizat. Platformele țintă suportate includ Windows, macOS, Linux, Android și iOS.
 
-## 🖱 Mouse Control
+## 🖱 Control Mouse
 
-- **Absolute Mode**: The target's mouse cursor is mapped directly to a specific position on the host's screen via our app. This means that wherever you move the host's mouse within our app, the target's mouse will follow the same movement. Note that there might be a slight delay in the cursor movements. You can choose to hide or display the host's mouse cursor while it is on our app.
+- **Mod Absolut**: Cursorul mouse-ului de pe dispozitivul țintă este mapat direct la o poziție specifică pe ecranul gazdei prin aplicația noastră. Asta înseamnă că oriunde miști mouse-ul gazdei în aplicația noastră, mouse-ul dispozitivului țintă va urma aceeași mișcare. Reține că poate exista o ușoară întârziere în mișcările cursorului. Poți alege să ascunzi sau să afișezi cursorul mouse-ului gazdei în timp ce este în aplicația noastră.
 
-- **Relative Mode**: The target's mouse movement is relative to the current position of the host's mouse. This means that moving the host's mouse will shift the target's cursor by a certain distance in the same direction, without a fixed start or end point. You can exit this relative mode using a specific shortcut.
+- **Mod Relativ**: Mișcarea mouse-ului de pe dispozitivul țintă este relativă la poziția curentă a mouse-ului gazdei. Asta înseamnă că mișcarea mouse-ului gazdei va deplasa cursorul dispozitivului țintă cu o anumită distanță în aceeași direcție, fără un punct de început sau sfârșit fix. Poți ieși din acest mod relativ folosind un anumit scurtătură.
 
-## ⌨️ Keyboard
+## ⌨️ Tastatură
 
-When the app is focused, you can type anything directly, and these keystrokes will be passed to the target's computer.
+Când aplicația este focalizată, poți tasta orice direct, iar aceste apăsări de taste vor fi transmise către computerul țintă.
 
-## ⚙️ BIOS-Level Access
+## ⚙️ Acces la Nivel BIOS
 
-- **BIOS Access**: Use our app to access the BIOS of your target devices. This allows you to control and configure settings directly from the BIOS.
+- **Acces BIOS**: Folosește aplicația noastră pentru a accesa BIOS-ul dispozitivelor țintă. Acest lucru îți permite să controlezi și să configurezi setările direct din BIOS.
 
-??? tip "Key strokes to enter BIOS for different motherboards"
+??? tip "Apăsări de taste pentru a intra în BIOS pentru diferite plăci de bază"
 
     - F2: Dell, Lenovo, ASUS, Acer, Toshiba, Samsung, Sony
     - F1: Lenovo
     - Del: ASUS, Acer, Gigabyte, MSI
     - F10: HP
-    - Assist button: Sony
-    - Option (⌥) key: Apple (to access the start manager)
+    - Buton Assist: Sony
+    - Tasta Option (⌥): Apple (pentru a accesa managerul de pornire)
 
-## 🔊 Sound
+## 🔊 Sunet
 
-- **Audio Transmission**: The target computer's audio is transmitted via the HDMI input port of the mini-KVM. When using our app, the sound from the target computer will be played through the host computer, ensuring you hear everything seamlessly.
+- **Transmisie Audio**: Sunetul computerului țintă este transmis prin portul de intrare HDMI al mini-KVM-ului. Când folosești aplicația noastră, sunetul de la computerul țintă va fi redat prin computerul gazdă, asigurându-te că auzi totul fără întreruperi.
 
 ## 🎥 Video
 
-- **Video Display**: Our app allows you to view the target computer's screen seamlessly. It supports video resolutions up to 1920x1080 at 30Hz for display within the app. The maximum video input supported is up to 3840x2160 at 30Hz via HDMI. Additionally, with the use of an adapter, it can also accommodate VGA, Micro HDMI, DVI, and other video input sources.
+- **Afișare Video**: Aplicația noastră îți permite să vizualizezi ecranul computerului țintă fără probleme. Suportă rezoluții video de până la 1920x1080 la 30Hz pentru afișare în aplicație. Intrarea video maximă suportată este de până la 3840x2160 la 30Hz prin HDMI. În plus, cu utilizarea unui adaptor, poate acomoda și surse de intrare video VGA, Micro HDMI, DVI și altele.
 
-## 🔄 Switchable USB Port
+## 🔄 Port USB Comutabil
 
-- **Using the USB Port**: The mini-KVM features a switchable USB-A 2.0 port that can be toggled between the host and target computers, but not both simultaneously.
-- **Switching Methods**: 
-    - Hardware Switch: A physical toggle on the device
-    - Software Switch: A button in the host application
-- **Switch Logic**: For more detailed information on the logic of how the switchable USB port operates, including the interaction between hardware and software switches, initial setup, operational states, and state transitions, please refer to the [USB Switch documentation](usb-switch.md).
+- **Utilizarea Portului USB**: Mini-KVM-ul dispune de un port USB-A 2.0 comutabil care poate fi alternat între computerele gazdă și țintă, dar nu ambele simultan.
+- **Metode de Comutare**: 
+    - Comutator Hardware: Un comutator fizic pe dispozitiv
+    - Comutator Software: Un buton în aplicația gazdă
+- **Logica Comutării**: Pentru informații mai detaliate despre logica de funcționare a portului USB comutabil, inclusiv interacțiunea dintre comutatoarele hardware și software, configurarea inițială, stările operaționale și tranzițiile de stare, te rugăm să consulți documentația [USB Switch](usb-switch.md).
 
 !!! warning "Important"
-    - Remember to eject any connected USB drives before switching the port's connection.
-    - The USB port has power limitations. Do not connect devices that require a lot of power, as this may result in unstable operation or potential damage.
+    - Amintește-ți să scoți în siguranță orice unități USB conectate înainte de a comuta conexiunea portului.
+    - Portul USB are limitări de putere. Nu conecta dispozitive care necesită multă putere, deoarece acest lucru poate duce la funcționare instabilă sau la posibile daune.

@@ -1,9 +1,9 @@
 ---
 template: home.html
-title: Home
+title: Acasă
 social:
   cards_layout_options:
-    title: Openterface Mini-KVM | Turn Your Laptop into a KVM Console
+    title: Openterface Mini-KVM | Transformă-ți laptopul într-o consolă KVM
 ---
 
-Welcome to Openterface mini-KVM.
+Bine ați venit la Openterface mini-KVM.

@@ -1,4 +1,4 @@
-# Roadmap
+# Plan de Dezvoltare
 
-Work in Progress
-Coming soon.
+Lucrăm la asta
+În curând.
