@@ -9,6 +9,7 @@ export const ro: KeymodLandingStrings = {
     },
     nav: {
       docs: "Documentație",
+    forum: "Forum",
       preLaunchCta: "Susține pe Crowd Supply",
     },
     povTabs: {
